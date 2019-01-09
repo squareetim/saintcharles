@@ -93,7 +93,7 @@ marquee{
                     <a href="#about">About Us</a>
                 </li>
                 <li>
-                    <a href="#" data-toggle="modal" data-target="#myModaldaily1">Daily Meditation</a>
+                    <a href="#" data-toggle="modal" data-target="#myModal">Daily Meditation</a>
                 </li>
                 <li>
                     <a href="lib-orgin.php">Online Library</a>
@@ -126,7 +126,7 @@ marquee{
 
 
 <div class="tooltip-content">
-    <div class="modal fade features-modal modal-about" id="myModaldaily1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal fade features-modal modal-about" id="myMod" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-about">
             <div class="modal-content modal-about">
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
