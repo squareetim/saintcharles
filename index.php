@@ -132,40 +132,24 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Mark 6:50)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 3:15)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Christmas Weekday</h3></p>
-                    <p><strong>Take courage, it is I, do not be afraid! (Mark 6:50)</strong></p><br>
-                    <div></div>
-                   <p>Jesus’ words are perplexing at best. Why wouldn’t the disciples be terrified, given the situation? 
-                   Not only are they far out to sea, but it’s dark, a storm is raging, and what appears to be a ghost is 
-                   walking toward them. Who wouldn’t be afraid?</p>
+                    <p><h3>The Baptism of the Lord (Feast)</h3></p>
+                    <p><strong>All were asking in their hearts whether John might be the Christ. (Luke 3:15)</strong></p><br>
+                    
+                   <p>The people who had come to hear John the Baptist were expecting something explosive. A prophet had arisen who would denounce all the enemies, all the “bad guys” who made life hard for everyone else. Maybe he was the Christ, the Messiah, come to cast out the Romans and their henchmen and restore Israel to its former glory.</p>
 
-                   <p>So how should we understand Jesus’ words to the disciples? And more to the point, how can we deal 
-                   with our fears when we face terrifying circumstances? We all know the kinds of things that could make 
-                   us afraid: a cancer diagnosis, job loss, financial upheaval, a child in a car accident, and many others. 
-                   These are the situations where fear can overwhelm and paralyze us. They’re the situations in which it 
-                   feels as if we are in the boat with the disciples—and just moments away from capsizing.</p>
+                   <p>But then came Jesus. A small-town carpenter who spent his time with the powerless and the sinful. The Spirit came upon him instead—not a fiery preacher calling out people’s sins, but a humble man preaching love of enemies. Surely people were caught off guard.</p>
 
-                   <p>But look what happens right after Jesus tells the disciples to do something that seemed impossible: 
-                   “He got into the boat with them” (Mark 6:51). Which is exactly what Jesus does for us. He joins us in 
-                   our “boat.” He doesn’t just tell us not to be afraid; he enters into our situation and promises to 
-                   remain with us every step of the way.</p>
+                   <p>Jesus came “to open the eyes of the blind,” not to cast the bad guys into hell (Isaiah 42:7). He came “to bring out prisoners from confinement,” not to punish people for their sins (42:7). He came to take away our sins so that we could learn to love one another—good guy and bad guy alike.</p>
 
-                   <p>This might not mean an instantaneous healing of cancer or a surprise check appearing in our mailbox. 
-                   But it may well entail the Lord offering you his help just when you most need it. Maybe he leads you 
-                   to an excellent doctor. Maybe you learn about a promising new job opportunity. Or maybe nothing 
-                   appears to happen at all, but you experience a sense of peace in the midst of turmoil. Whatever 
-                   happens, Jesus wants to show you that he is with you for the long haul. He has no intention of 
-                   abandoning you. This means you can trust in him, even in the most terrifying of storms.</p>
+                   <p>When you hear this reading today, close your eyes and picture the scene. Picture John immersing Jesus into the Jordan River—a river that had received the sins of all who had come for baptism. Imagine Jesus accepting all of those sins and every sin that they represent.</p>
 				   
-				   <p>So whenever you feel like your boat is sinking, remember Jesus’ words: “Take courage, it is I, do 
-				   not be afraid” (Mark 6:50). Jesus is with you, and he will remain with you through every frightening 
-				   moment. Then keep your eyes open so that you don’t miss all the ways he is caring for you.</p>			   
+				   <p>For the next three years, Jesus will bear these sins, along with the sins of everyone else he comes into contact with. And still bearing those sins, he will teach us about his Father’s mercy, heal us from the wounds of sin, and deliver us from whatever hatred and bitterness is stored up in our hearts. Then he will take all that sin, hatred, and bitterness to the cross, where he will put it to death forever.</p>			   
 				   
-				   
-                    <p><strong><i>“Lord Jesus, thank you for being with me and helping me to face my fears.”</i></strong></p>
+				   <p>Today is the beginning of salvation for you and for everyone else, good guy and bad guy alike. So rejoice in this salvation and ask Jesus to help you love as he loves. Ask him to help you love everyone.</p>
+                    <p><strong><i>“Praise to you, Jesus, for taking all my sins!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
