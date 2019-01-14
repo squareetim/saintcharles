@@ -735,6 +735,13 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                                 <h6><strong>Asst Parish Priest <br>(+234**********)</strong></h6>
                             </div>
                         </div>
+                        
+                        <div class="item-owl">
+                            <div class="test-review">
+                                <img src="img/charles9.jpg" class="img-responsive" alt="Asst Parish Priest">
+                                <h6><strong>Asst Parish Priest <br>(+234**********)</strong></h6>
+                            </div>
+                        </div>
 
                         <div class="item-owl">
                             <div class="test-review">
