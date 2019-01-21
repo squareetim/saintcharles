@@ -133,44 +133,44 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Hebrews 1:2)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 2:22)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>1st Week in Ordinary Time</h3></p>
-                    <p><strong>He spoke to us through the Son. (Hebrews 1:2)</strong></p><br>
+                    <p><h3>Saint Agnes, Virgin and Martyr (Memorial)</h3></p>
+                    <p><strong>Likewise, no one pours new wine into old wineskins. (Mark 2:22)</strong></p><br>
                     
                    <p>As the Church begins a series of readings from the Letter to the Hebrews, let’s take a broad look 
                    at this beautiful epistle.</p>
 
-                   <p>Truth be told, Hebrews has always been somewhat of a mystery to commentators. Many early Church 
-                   writers saw in it the influence of a Pharisee like St. Paul because of its numerous quotes from the 
-                   Old Testament. But its style is totally different from Paul’s other works. Other scholars claimed 
-                   that the writer was Paul’s fellow apostle and evangelist Barnabas, “son of encouragement” (Acts 4:36). 
-                   And even though debate continued—others have proposed Luke, Apollos, and even the deaconess 
-                   Priscilla - the letter was accepted as authentically inspired by the Holy Spirit. An early pope, 
-                   Clement of Rome, even quoted from Hebrews around AD 96.</p>
+                   <p>Have you ever felt like an old wineskin, stiff and stuck in your old, comfortable ways? Even 
+                   though God has made you a flexible, “new creation” in Christ (2 Corinthians 5:17), you may still be 
+                   aware of habits and patterns of behavior that look more like the old, crusty ways of sin. Maybe you 
+                   need to be more forgiving or to control your temper or to change a bad habit. You want to change, but 
+                   when you try to stretch, the seams feel the tension, and you fall back into your old ways. You don’t 
+                   want to burst!</p>
 
-                   <p>Modern study reveals Hebrews to be a well-crafted letter, dating most likely from before AD 67. 
-                   Although the audience is never clearly identified, no doubt tradition is correct in pointing toward 
-                   a community made up chiefly of Jewish Christians rooted in the Hebrew religious culture and language. 
-                   Beyond that, we know that it is an exciting letter with a powerful, timeless message: fix your eyes 
-                   on Jesus, the Son of God, and the fulfillment of God’s age-old promise to save his people.</p>
+                   <p>But old wineskins can be reconditioned if they are cleaned and soaked in oil. They can even get to 
+                   the point where they can hold new wine—wine that is rapidly expanding and that calls for the utmost 
+                   flexibility.</p>
 
-                   <p>The Letter to the Hebrews is infused with an experiential knowledge of Jesus and his power to 
-                   deliver us from bondage. He is our “great high priest” (Hebrews 4:14) who constantly intercedes for 
-                   us (7:25) and whose blood was shed to cleanse our consciences (9:14). He is the author and perfecter 
-                   of our faith (12:2) who sustains not only our lives but the entire universe as well (1:3). He is able 
-                   to deal with every fear, every sin, every obstacle in our life of faith. He can give us every reason 
-                   to “hold unwaveringly to our confession that gives us hope, for he who made the promise is 
-                   trustworthy” (10:23).</p>
+                   <p>When it comes to our hearts, “cleaning” involves clearing out whatever debris might be blocking 
+                   our ability to welcome the Lord. Suppose, for example, that you are prone to losing your temper. You 
+                   could focus all your energy on bottling up your reaction. Or you could look at why you tend to react 
+                   this way. Is it impatience? Stress? Fear? Get to the bottom of the reaction, and seek God’s cleansing 
+                   power there, at the root. Then, every time you are in a situation that makes you angry, try to 
+                   replace that root cause with its opposite virtue: patience, trust, or courage.</p>
 				   
-				   <p>This is the Jesus we will be meeting throughout the next four weeks: a dynamic, powerful Messiah 
-				   who is completely committed to rescuing us from sin and bringing us to heaven. May the Spirit open 
-				   our eyes to see him more clearly.</p>			   
+				   <p>Of course, we have to do our part to change and stretch, but ultimately, it’s God who changes us. 
+				   That’s where the “soaking” comes in. Find a time each day to soak yourself in God’s presence in 
+				   prayer. Throughout the day, ask for his grace when you are feeling tempted to fall back into old 
+				   patterns. Seek the help that comes from Confession and the Eucharist. Maybe ask a friend or family 
+				   member to pray for you and to help keep you on track. Over time, you’ll become more flexible. Your 
+				   heart will expand to welcome more of the Lord in—as well as more of his people.</p>			   
 				   
-				 
-                    <p><strong><i>“Jesus, thank you for embracing the cross so that I could enter into a new, eternal 
-                    covenant with you!”</i></strong></p>
+				   <p>It’s true that no one pours new wine into old wineskins. Praise God that he has sent Jesus to us 
+				   so that he could make all things new!</p>
+				    
+                    <p><strong><i>“Jesus, help me become more flexible, just as you are.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
