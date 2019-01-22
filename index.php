@@ -133,44 +133,41 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Mark 2:22)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 2:27)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Agnes, Virgin and Martyr (Memorial)</h3></p>
-                    <p><strong>Likewise, no one pours new wine into old wineskins. (Mark 2:22)</strong></p><br>
+                    <p><h3>2nd Week in Ordinary Time</h3></p>
+                    <p><strong>The sabbath was made for man, not man for the sabbath. (Mark 2:27)</strong></p><br>
                     
-                   <p>As the Church begins a series of readings from the Letter to the Hebrews, let’s take a broad look 
-                   at this beautiful epistle.</p>
+                   <pWhen children are young, it seems as if their lives are hemmed in by rules: look both ways before 
+                   crossing the street. Share your toys. Wash your hands after you use the bathroom. Parents know that 
+                   rules like these will help their children grow into maturity. The rules are there to protect them as 
+                   they learn to make right decisions. As their children mature, parents will offer reasons and 
+                   explanations for these rules. Then, finally, comes the time when children are able to make their own 
+                   decisions based on the good habits they formed in childhood.</p>
 
-                   <p>Have you ever felt like an old wineskin, stiff and stuck in your old, comfortable ways? Even 
-                   though God has made you a flexible, “new creation” in Christ (2 Corinthians 5:17), you may still be 
-                   aware of habits and patterns of behavior that look more like the old, crusty ways of sin. Maybe you 
-                   need to be more forgiving or to control your temper or to change a bad habit. You want to change, but 
-                   when you try to stretch, the seams feel the tension, and you fall back into your old ways. You don’t 
-                   want to burst!</p>
+                   <p>Like rules for a young child, the sabbath guidelines that Jesus talks about in today’s Gospel were 
+                   meant to help God’s people make a habit of choosing God’s ways. They were meant to instill the 
+                   practice of prayer and rest into the rhythm of life. Obeying the Law in itself wasn’t the goal. 
+                   Staying close to God was the goal—loving him and giving him time and space in their lives.</p>
 
-                   <p>But old wineskins can be reconditioned if they are cleaned and soaked in oil. They can even get to 
-                   the point where they can hold new wine—wine that is rapidly expanding and that calls for the utmost 
-                   flexibility.</p>
+                   <p>This is just as true for us as it was for ancient Israel. God did not create us to slavishly 
+                   observe sabbath law. He created the Sabbath to help us grow into mature believers who live to worship 
+                   him and follow his law of love.</p>
 
-                   <p>When it comes to our hearts, “cleaning” involves clearing out whatever debris might be blocking 
-                   our ability to welcome the Lord. Suppose, for example, that you are prone to losing your temper. You 
-                   could focus all your energy on bottling up your reaction. Or you could look at why you tend to react 
-                   this way. Is it impatience? Stress? Fear? Get to the bottom of the reaction, and seek God’s cleansing 
-                   power there, at the root. Then, every time you are in a situation that makes you angry, try to 
-                   replace that root cause with its opposite virtue: patience, trust, or courage.</p>
+                   <p>At their best, human laws are meant to help us think as God thinks. But not all human laws do 
+                   that. That’s why it is so vital that we pray for just laws that will protect the 
+                   vulnerable-especially unborn children. We know that society needs to protect these little ones, but 
+                   it rarely does. Laws are supposed to support us in doing what’s right. So it’s important that the 
+                   laws of our society reinforce that purpose. And when they don’t, it’s important that we pray and work 
+                   for changes in the law that will help our society grow in justice and compassion.</p>
 				   
-				   <p>Of course, we have to do our part to change and stretch, but ultimately, it’s God who changes us. 
-				   That’s where the “soaking” comes in. Find a time each day to soak yourself in God’s presence in 
-				   prayer. Throughout the day, ask for his grace when you are feeling tempted to fall back into old 
-				   patterns. Seek the help that comes from Confession and the Eucharist. Maybe ask a friend or family 
-				   member to pray for you and to help keep you on track. Over time, you’ll become more flexible. Your 
-				   heart will expand to welcome more of the Lord in—as well as more of his people.</p>			   
-				   
-				   <p>It’s true that no one pours new wine into old wineskins. Praise God that he has sent Jesus to us 
-				   so that he could make all things new!</p>
+				   <p>Let’s pray today that our officials will enact just laws that protect the vulnerable. Let’s pray 
+				   that each one of us grows in our ability to care for the innocent and defenseless. Let’s do what we 
+				   can to safeguard the least among us.</p>
 				    
-                    <p><strong><i>“Jesus, help me become more flexible, just as you are.”</i></strong></p>
+                    <p><strong><i>“Jesus, thank you that you want us to grow to mature Christian love. Help me learn to 
+                    live according to your law of love.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
