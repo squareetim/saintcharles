@@ -133,41 +133,41 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Mark 2:27)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 3:5)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>2nd Week in Ordinary Time</h3></p>
-                    <p><strong>The sabbath was made for man, not man for the sabbath. (Mark 2:27)</strong></p><br>
+                    <p><h3>Saint Vincent, Deacon and Martyr (Optional Memorial)</h3></p>
+                    <p><strong>Grieved at their hardness of heart . . . (Mark 3:5)</strong></p><br>
                     
-                   <pWhen children are young, it seems as if their lives are hemmed in by rules: look both ways before 
-                   crossing the street. Share your toys. Wash your hands after you use the bathroom. Parents know that 
-                   rules like these will help their children grow into maturity. The rules are there to protect them as 
-                   they learn to make right decisions. As their children mature, parents will offer reasons and 
-                   explanations for these rules. Then, finally, comes the time when children are able to make their own 
-                   decisions based on the good habits they formed in childhood.</p>
+                   <p>During Mass one Sunday morning, a teenager chatted with the man seated next to him. The teen had 
+                   been invited by a friend, and he clearly hadn’t been to church very often. His speech was peppered 
+                   with bad language. His mannerisms seemed rough. And he kept speaking at the worst possible times. 
+                   Offended by the boy’s actions, the man thought, “Doesn’t he know this is a church?”</p>
 
-                   <p>Like rules for a young child, the sabbath guidelines that Jesus talks about in today’s Gospel were 
-                   meant to help God’s people make a habit of choosing God’s ways. They were meant to instill the 
-                   practice of prayer and rest into the rhythm of life. Obeying the Law in itself wasn’t the goal. 
-                   Staying close to God was the goal—loving him and giving him time and space in their lives.</p>
+                   <p>But something happened that morning at Mass that led this teenager to have a dramatic encounter 
+                   with the Lord. He began reading the Scriptures and attending Mass regularly. He met with the pastor 
+                   and joined the parish. Soon he became an altar server and began singing in the youth choir. When the 
+                   man saw all of this, he felt ashamed for judging this misfit teen harshly.</p>
 
-                   <p>This is just as true for us as it was for ancient Israel. God did not create us to slavishly 
-                   observe sabbath law. He created the Sabbath to help us grow into mature believers who live to worship 
-                   him and follow his law of love.</p>
+                   <p>There’s a similar story in today’s Gospel from Mark. During a synagogue liturgy, Jesus healed a 
+                   man with a withered hand. But instead of rejoicing at the man’s restoration, some of the leaders 
+                   chafed because Jesus had done it on the Sabbath. Like the first man, they missed the deeper meaning 
+                   of the Sabbath—that it was a gift from the Lord, a time for healing and refreshment. But unlike the 
+                   first man, their hard hearts didn’t soften. On the contrary, Mark tells us that they began plotting 
+                   Jesus’ death.</p>
 
-                   <p>At their best, human laws are meant to help us think as God thinks. But not all human laws do 
-                   that. That’s why it is so vital that we pray for just laws that will protect the 
-                   vulnerable-especially unborn children. We know that society needs to protect these little ones, but 
-                   it rarely does. Laws are supposed to support us in doing what’s right. So it’s important that the 
-                   laws of our society reinforce that purpose. And when they don’t, it’s important that we pray and work 
-                   for changes in the law that will help our society grow in justice and compassion.</p>
+                   <p>So why did the religious leaders get angrier, while the man at Mass had a change of heart? The 
+                   difference was that the first man softened his heart when he saw how God had worked in the boy’s 
+                   life. All the Jewish leaders could see was an infraction of the Law; they couldn’t look behind the 
+                   infraction to see the evidence of God’s mercy and love.</p>
 				   
-				   <p>Let’s pray today that our officials will enact just laws that protect the vulnerable. Let’s pray 
-				   that each one of us grows in our ability to care for the innocent and defenseless. Let’s do what we 
-				   can to safeguard the least among us.</p>
+				   <p>How do you react when someone rubs you the wrong way? How welcoming are you to the “misfits” in 
+				   your church? Like the man at Mass and the religious leaders in Mark, you have a choice. You can 
+				   become annoyed at appearances, or you can look beyond appearances to see a heart being changed. Try 
+				   seeing things from God’s perspective. Maybe that person is nearer to him than you think! The Lord 
+				   might just use your welcoming, kind words as his instrument of healing.</p>
 				    
-                    <p><strong><i>“Jesus, thank you that you want us to grow to mature Christian love. Help me learn to 
-                    live according to your law of love.”</i></strong></p>
+                    <p><strong><i>“Jesus, take the callous places in my heart and soften them. Fill me with your compassion.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
