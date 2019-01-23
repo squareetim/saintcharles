@@ -173,7 +173,7 @@ marquee{
             </div>
         </div>
     </div>
-
+<div></div>
     <script>
         $('#myModal').modal('');
     </script>
