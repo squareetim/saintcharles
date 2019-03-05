@@ -937,22 +937,15 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/Merici.jpg" alt="Angela Merici" width="140" height="140">
-                    <h5><strong>Angela Merici<br> (1470 - 1540)</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/Saints_Perpetua_and_Felicitas.jpg" alt="Perpetua and Felicity" width="140" height="140">
+                    <h5><strong>Perpetua and Felicity<br> (died 203)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
                     <p>
-                        By age 26, Angela had lost most of her wealthy Italian family to death. As a Franciscan 
-                        tertiary, she performed good works and taught catechism to girls in her home in Desenzano del 
-                        Garda. Two visions inspired her to found a congregation dedicated to the religious training of 
-                        young women; she began this mission with a school in Brescia. Earlier she had endured an episode 
-                        of blindness while on a pilgrimage to the Holy Land and had rejected a papal request to run all 
-                        charities in Rome. In 1535, she founded the Ursulines and served as superior until her death. 
-                        This mystic, a patron of catechists, reportedly was fascinated from childhood by the legend of 
-                        St. Ursula, an early virgin-martyr.
+                        Martyrs in Carthage, now in Tunisia, these young women — the noblewoman Perpetua and the slave Felicity — were among five catechumens who, after refusing to worship the Roman emperor, were arrested and condemned to be thrown to wild beasts. They were baptized in prison, where Felicity also gave birth to a daughter. In the Carthage arena, they were attacked by a beast, which did not kill them, so their throats were cut by a gladiator.
                     </p>
                     
-                <p class="text-muted">&copy; Catholic News Services - Angela Merici</p>
+                <p class="text-muted">&copy; Catholic News Services - Perpetua and Felicity</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -1035,7 +1028,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                                 <dd class="text-left">
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_1st_reading">1st Reading &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_res_psalm">Responsorial Psalm &raquo;</a> </p>
-                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_2nd_reading">2nd Reading &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_gospel_reading">Gospel Reading &raquo;</a> </p>
                                     <strong><center>Click above for your readings</center></strong>
                                 </dd>
@@ -1693,23 +1686,23 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Monday<br>
-                            <h6 class="modal-title modal-about text-center">Hebrew 5:1-10</h6>
+                            <h6 class="modal-title modal-about text-center">Sirach 17:20-24</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <p>Brothers and Sisters:<br>
-                                Every high priest is taken from among men and made their representative before God, to 
-                                offer gifts and sacrifices for sins. He is able to deal patiently with the ignorant and 
-                                erring, for he himself is beset by weakness and so, for this reason, must make sin 
-                                offerings for himself as well as for the people. No one takes this honor upon himself 
-                                but only when called by God, just as Aaron was. In the same way, it was not Christ who 
-                                glorified himself in becoming high priest, but rather the one who said to him: You are 
-                                my Son: this day I have begotten you; just as he says in another place, You are a priest 
-                                forever according to the order of Melchizedek. In the days when he was in the Flesh, he 
-                                offered prayers and supplications with loud cries and tears to the one who was able to 
-                                save him from death, and he was heard because of his reverence. Son though he was, he 
-                                learned obedience from what he suffered; and when he was made perfect, he became the 
-                                source of eternal salvation for all who obey him.
+                            <p>
+                                To the penitent God provides a way back, he encourages those who are losing hope and has 
+                                chosen for them the lot of truth. Return to him and give up sin, pray to the LORD and make 
+                                your offenses few. Turn again to the Most High and away from your sin, hate intensely what 
+                                he loathes, and know the justice and judgments of God, Stand firm in the way set before you, 
+                                in prayer to the Most High God.
+                            </p>
+                            <p>
+                                Who in the nether world can glorify the Most High in place of the living who offer their 
+                                praise? Dwell no longer in the error of the ungodly, but offer your praise before death. 
+                                No more can the dead give praise than those who have never lived; You who are alive and 
+                                well shall praise and glorify God in his mercies. How great the mercy of the LORD, his 
+                                forgiveness of those who return to him!
                             </p>                           
                         </div>
                     </div>
@@ -1728,30 +1721,36 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Monday<br>
-                            <h6 class="modal-title modal-about text-center">Psalm 110:1, 2, 3, 4</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 32:1-2, 5, 6, 7</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong><br>
-                                The LORD said to my Lord: "Sit at my right hand<br>
-                                till I make your enemies your footstool."<br>
-                                <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong><br>
+                                Blessed is he whose fault is taken away,<br>
+                                whose sin is covered.<br>
+                                Blessed the man to whom the LORD imputes not guilt,<br>
+                                in whose spirit there is no guile.<br>
+                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
                             </p>
                             <p>
-                               The scepter of your power the LORD will stretch forth from Zion:<br>
-                             "Rule in the midst of your enemies."<br>
-                             <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+                               Then I acknowledged my sin to you,<br>
+                             my guilt I covered not.<br>
+                             I said, "I confess my faults to the LORD,"<br>
+                             and you took away the guilt of my sin.<br>
+                             <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
                             </p>    				
                             <p>
-                                "Yours is princely power in the day of your birth, in holy splendor;<br>
-                                before the daystar, like the dew, I have begotten you."<br>
-                                <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+                                For this shall every faithful man pray to you<br>
+                                in time of stress.<br>
+                                Though deep waters overflow,<br>
+                                they shall not reach him.<br>
+                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
                             </p>
                             <p>
-                                The LORD has sworn, and he will not repent:<br>
-                                "You are a priest forever, according to the order of Melchizedek."<br>
-                                <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+                                You are my shelter; from distress you will preserve me;<br>
+                                with glad cries of freedom you will ring me round.<br>
+                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -1795,20 +1794,26 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Monday
-                            <h6 class="modal-title modal-about text-center">Mark 2:18-22</h6> 
+                            <h6 class="modal-title modal-about text-center">Mark 10:17-27</h6> 
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               The disciples of John and of the Pharisees were accustomed to fast. People came to Jesus 
-                               and objected, "Why do the disciples of John and the disciples of the Pharisees fast, but 
-                               your disciples do not fast?" Jesus answered them, "Can the wedding guests fast while the 
-                               bridegroom is with them? As long as they have the bridegroom with them they cannot fast. 
-                               But the days will come when the bridegroom is taken away from them, and then they will 
-                               fast on that day. No one sews a piece of unshrunken cloth on an old cloak. If he does, 
-                               its fullness pulls away, the new from the old, and the tear gets worse. Likewise, no one 
-                               pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the 
-                               wine and the skins are ruined. Rather, new wine is poured into fresh wineskins."
+                               As Jesus was setting out on a journey, a man ran up, knelt down before him, and asked him, 
+                               "Good teacher, what must I do to inherit eternal life?" Jesus answered him, "Why do you 
+                               call me good? No one is good but God alone. You know the commandments: <strong>You shall not kill; 
+                               you shall not commit adultery; you shall not steal; you shall not bear false witness; 
+                               you shall not defraud; honor your father and your mother.</strong>" He replied and said to him, 
+                               "Teacher, all of these I have observed from my youth." Jesus, looking at him, loved him 
+                               and said to him, <strong>"You are lacking in one thing. Go, sell what you have, and give to the 
+                               poor and you will have treasure in heaven; then come, follow me."</strong> At that statement, his 
+                               face fell, and he went away sad, for he had many possessions.
+                            </p>
+                            <p>
+                                Jesus looked around and said to his disciples, "How hard it is for those who have wealth 
+                                to enter the Kingdom of God!" The disciples were amazed at his words. So Jesus again 
+                                said to them in reply, "Children, how hard it is to enter the Kingdom of God! It is 
+                                easier for a camel to pass through the eye of a needle.
                             </p>                    
                         </div>
                     </div>
@@ -1827,30 +1832,26 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Tuesday
-                            <h6 class="modal-title modal-about text-center">Hebrew 6:10-20</h6>
+                            <h6 class="modal-title modal-about text-center">Sirach 35:1-12</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Brothers and Sisters:<br>
-                                God is not unjust so as to overlook your work and the love you have demonstrated for his 
-                                name by having served and continuing to serve the holy ones. We earnestly desire each of 
-                                you to demonstrate the same eagerness for the fulfillment of hope until the end, so that 
-                                you may not become sluggish, but imitators of those who, through faith and patience, are 
-                                inheriting the promises.
+                                To keep the law is a great oblation, and he who observes the commandments sacrifices a 
+                                peace offering. In works of charity one offers fine flour, and when he gives alms he 
+                                presents his sacrifice of praise. To refrain from evil pleases the LORD, and to avoid 
+                                injustice is an atonement. Appear not before the LORD empty-handed, for all that you 
+                                offer is in fulfillment of the precepts. The just one's offering enriches the altar and 
+                                rises as a sweet odor before the Most High. The just one's sacrifice is most pleasing, 
+                                nor will it ever be forgotten. In a generous spirit pay homage to the LORD, be not 
+                                sparing of freewill gifts. With each contribution show a cheerful countenance, and pay 
+                                your tithes in a spirit of joy. Give to the Most High as he has given to you, 
+                                generously, according to your means. 
                             </p>
                             <p>
-                                When God made the promise to Abraham, since he had no one greater by whom to swear, he 
-                                swore by himself, and said, I will indeed bless you and multiply you. And so, after 
-                                patient waiting, Abraham obtained the promise. Now, men swear by someone greater than 
-                                themselves; for them an oath serves as a guarantee and puts an end to all argument. So 
-                                when God wanted to give the heirs of his promise an even clearer demonstration of the 
-                                immutability of his purpose, he intervened with an oath, so that by two immutable things, 
-                                in which it was impossible for God to lie, we who have taken refuge might be strongly 
-                                encouraged to hold fast to the hope that lies before us. This we have as an anchor of 
-                                the soul, sure and firm, which reaches into the interior behind the veil, where Jesus 
-                                has entered on our behalf as forerunner, becoming high priest forever according to the 
-                                order of Melchizedek.
+                                For the LORD is one who always repays, and he will give back to you sevenfold. But offer 
+                                no bribes, these he does not accept! Trust not in sacrifice of the fruits of extortion. 
+                                For he is a God of justice, who knows no favorites.
                             </p>                            
                        </div>
                     </div>
@@ -1869,31 +1870,32 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Tuesday
-                            <h6 class="modal-title modal-about text-center">Psalm 111:1-2, 4-5, 9 AND 10C</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 50:5-6, 7-8, 14 And 23</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. The Lord will remember his covenant for ever.</i></strong><br>
-                               I will give thanks to the LORD with all my heart<br>
-                                in the company and assembly of the just.<br>
-                                Great are the works of the LORD,<br> 
-                               exquisite in all their delights.<br>								
-                               <strong><i>R. The Lord will remember his covenant for ever.</i></strong>
+                                <strong><i>R. To the upright I will show the saving power of God.</i></strong><br>
+                               "Gather my faithful ones before me,<br>
+                                those who have made a covenant with me by sacrifice."<br>
+                                And the heavens proclaim his justice;<br> 
+                               for God himself is the judge.<br>								
+                               <strong><i>R. To the upright I will show the saving power of God.</i></strong>
                             </p>
                             <p>
-                                He has won renown for his wondrous deeds;<br>
-                                gracious and merciful is the LORD.<br>
-                             	He has given food to those who fear him;<br>
-                             	he will forever be mindful of his covenant.<br>
-                                <strong><i>R. The Lord will remember his covenant for ever.</i></strong>
+                                "Hear, my people, and I will speak;<br>
+                                Israel, I will testify against you;<br>
+                             	God, your God, am I.<br>
+                             	Not for your sacrifices do I rebuke you,<br>
+                             	for your burnt offerings are before me always."<br>
+                                <strong><i>R. To the upright I will show the saving power of God.</i></strong>
                             </p>
                             <p>
-                                He has sent deliverance to his people;<br>
-                                he has ratified his covenant forever;<br>
-                              	holy and awesome is his name.<br>
-                              	His praise endures forever.<br>
-							    <strong><i>R. The Lord will remember his covenant for ever.</i></strong>
+                                "Offer to God praise as your sacrifice<br>
+                                and fulfill your vows to the Most High.<br>
+                                He that offers praise as a sacrifice glorifies me;<br>
+                              	and to him that goes the right way I will show the salvation of God."<br>
+                              	<strong><i>R. To the upright I will show the saving power of God.</i></strong>
 							</p>
                          </div>
                     </div>
@@ -1944,19 +1946,17 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Tuesday
-                            <h6 class="modal-title modal-about text-center">Mark 2:23-28</h6>
+                            <h6 class="modal-title modal-about text-center">Mark 10:28-31</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                As Jesus was passing through a field of grain on the sabbath, his disciples began to 
-                                make a path while picking the heads of grain. At this the Pharisees said to him, "Look, 
-                                why are they doing what is unlawful on the sabbath?" He said to them, "Have you never 
-                                read what David did when he was in need and he and his companions were hungry? How he 
-                                went into the house of God when Abiathar was high priest and ate the bread of offering 
-                                that only the priests could lawfully eat, and shared it with his companions?" Then he 
-                                said to them, "The sabbath was made for man, not man for the sabbath. That is why the 
-                                Son of Man is lord even of the sabbath."
+                                Peter began to say to Jesus, 'We have given up everything and followed you." Jesus said, 
+                                "Amen, I say to you, there is no one who has given up house or brothers or sisters or 
+                                mother or father or children or lands for my sake and for the sake of the Gospel who 
+                                will not receive a hundred times more now in this present age: houses and brothers and 
+                                sisters and mothers and children and lands, with persecutions, and eternal life in the 
+                                age to come. But many that are first will be last, and the last will be first."
                             </p>                   
                         </div>
                     </div>
@@ -1975,25 +1975,27 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Wednesday
-                            <h6 class="modal-title modal-about text-center">Hebrew 7:1-3, 15-17</h6>
+                            <h6 class="modal-title modal-about text-center">Joel 2:12-18</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               Melchizedek, king of Salem and priest of God Most High, met Abraham as he returned from 
-                               his defeat of the kings and blessed him. And Abraham apportioned to him a tenth of 
-                               everything. His name first means righteous king, and he was also "king of Salem," that 
-                               is, king of peace. Without father, mother, or ancestry, without beginning of days or end 
-                               of life, thus made to resemble the Son of God, he remains a priest forever.
+                               Even now, says the LORD, return to me with your whole heart, with fasting, and weeping, 
+                               and mourning; Rend your hearts, not your garments, and return to the LORD, your God. For 
+                               gracious and merciful is he, slow to anger, rich in kindness, and relenting in punishment. 
+                               Perhaps he will again relent and leave behind him a blessing, Offerings and libations for 
+                               the LORD, your God.
                             </p>
                             <p>
-                                It is even more obvious if another priest is raised up after the likeness of 
-                                Melchizedek, who has become so, not by a law expressed in a commandment concerning 
-                                physical descent but by the power of a life that cannot be destroyed. For it is 
-                                testified:
+                                Blow the trumpet in Zion! proclaim a fast,  call an assembly; Gather the people, notify 
+                                the congregation; Assemble the elders, gather the children and the infants at the breast; 
+                                Let the bridegroom quit his room and the bride her chamber. Between the porch and the altar 
+                                let the priests, the ministers of the LORD, weep, And say, "Spare, O LORD, your people, 
+                                and make not your heritage a reproach, with the nations ruling over them! Why should 
+                                they say among the peoples, 'Where is their God?'"
                             </p>
                             <p>
-                                You are a priest forever according to the order of Melchizedek. 
+                                Then the LORD was stirred to concern for his land and took pity on his people.
                             </p>                           
                         </div>
                     </div>
@@ -2012,30 +2014,38 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Wednesday
-                            <h6 class="modal-title modal-about text-center">Psalm 110:1, 2, 3, 4</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 51:3-4, 5-6AB, 12-13, 14 AND 17</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong><br>
-                                The LORD said to my Lord: "Sit at my right hand<br>
-                                till I make your enemies your footstool."<br>                            
-                               <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+                                <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong><br>
+                                Have mercy on me, O God, in your goodness;<br>
+                                in the greatness of your compassion wipe out my offense.<br>   
+                                Thoroughly wash me from my guilt<br>
+                                and of my sin cleanse me.<br>                         
+                               <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
                             </p>
                             <p>
-                                The scepter of your power the LORD will stretch forth from Zion:<br>
-                                "Rule in the midst of your enemies."<br>
-                                <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+                                For I acknowledge my offense,<br>
+                                and my sin is before me always:<br>
+                                "Against you only have I sinned,<br>
+                                and done what is evil in your sight."<br>
+                                <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
 						  </p>
 						  <p>
-						        "Yours is princely power in the day of your birth, in holy splendor;<br>
-						        before the daystar, like the dew, I have begotten you."<br>
-						        <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+						        A clean heart create for me, O God,<br>
+                                and a steadfast spirit renew within me.<br>
+						        Cast me not out from your presence,<br>
+                                and your Holy Spirit take not from me.<br>
+						        <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
 						  </p>
 						  <p>
-						        The LORD has sworn, and he will not repent:<br>
-						        "You are a priest forever, according to the order of Melchizedek."<br>
-						        <strong><i>R. You are a priest for ever, in the line of Melchizedek.</i></strong>
+						        Give me back the joy of your salvation,<br>
+						        and a willing spirit sustain in me.<br>
+                                O Lord, open my lips,<br>
+                                and my mouth shall proclaim your praise.<br>
+						        <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
 						  </p>
                         </div>
                     </div>
@@ -2054,14 +2064,25 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">2nd Reading - Wednesday</h4>
+                            <h6 class="modal-title modal-about text-center">2 Corinthians 5:20—6:2</h6>
                         </div>
                         <div class="modal-body modal-about">
-                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
-                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
-                            by its nature to the good of the spouses and the procreation and the education of offspring, 
-                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
-                            baptised.</p>
-                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                            <p>
+                                Brothers and sisters:<br>
+                                We are ambassadors for Christ, as if God were appealing through us. We implore you on 
+                                behalf of Christ, be reconciled to God. For our sake he made him to be sin who did not 
+                                know sin, so that we might become the righteousness of God in him.
+                            </p>
+                            <p>
+                                Working together, then, we appeal to you not to receive the grace of God in vain.
+                            </p>
+                            <p>
+                                <i>For he says: In an acceptable time I heard you, and on the day of salvation I helped 
+                                you.</i>
+                            </p>
+                            <p>
+                                Behold, now is a very acceptable time; behold, now is the day of salvation.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2079,20 +2100,31 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Wednesday
-                            <h6 class="modal-title modal-about text-center">Mark 3:1-6</h6>
+                            <h6 class="modal-title modal-about text-center">Mathew 6:1-6, 16-18</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                  Jesus entered the synagogue. There was a man there who had a withered hand. They 
-                                  watched Jesus closely to see if he would cure him on the sabbath so that they might 
-                                  accuse him. He said to the man with the withered hand, "Come up here before us." Then 
-                                  he said to the Pharisees, "Is it lawful to do good on the sabbath rather than to do 
-                                  evil, to save life rather than to destroy it?" But they remained silent. Looking 
-                                  around at them with anger and grieved at their hardness of heart, Jesus said to the 
-                                  man, "Stretch out your hand." He stretched it out and his hand was restored. The 
-                                  Pharisees went out and immediately took counsel with the Herodians against him to put 
-                                  him to death.
+                                Jesus said to his disciples:<br>
+                                "Take care not to perform righteous deeds in order that people may see them; otherwise, 
+                                you will have no recompense from your heavenly Father. When you give alms, do not blow a 
+                                trumpet before you, as the hypocrites do in the synagogues and in the streets to win the 
+                                praise of others. Amen, I say to you, they have received their reward. But when you give 
+                                alms, do not let your left hand know what your right is doing, so that your almsgiving 
+                                may be secret. And your Father who sees in secret will repay you.
+                            </p>
+                            <p>
+                                "When you pray, do not be like the hypocrites, who love to stand and pray in the 
+                                synagogues and on street corners so that others may see them. Amen, I say to you, they 
+                                have received their reward. But when you pray, go to your inner room, close the door, 
+                                and pray to your Father in secret. And your Father who sees in secret will repay you.
+                            </p>
+                            <p>
+                                "When you fast, do not look gloomy like the hypocrites. They neglect their appearance, 
+                                so that they may appear to others to be fasting. Amen, I say to you, they have received 
+                                their reward. But when you fast, anoint your head and wash your face, so that you may 
+                                not appear to be fasting, except to your Father who is hidden. And your Father who sees 
+                                what is hidden will repay you."
                             </p>
                         </div>
                     </div>
@@ -2111,33 +2143,23 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Thursday
-                            <h6 class="modal-title modal-about text-center">Hebrew 7:25—8:6</h6>
+                            <h6 class="modal-title modal-about text-center">Deuteronomy 30:15-20</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus is always able to save those who approach God through him, since he lives forever 
-                                to make intercession for them.
-                            </p>
-                            <p>
-                                It was fitting that we should have such a high priest: holy, innocent, undefiled, 
-                                separated from sinners, higher than the heavens. He has no need, as did the high priests, 
-                                to offer sacrifice day after day, first for his own sins and then for those of the people; 
-                                he did that once for all when he offered himself. For the law appoints men subject to 
-                                weakness to be high priests, but the word of the oath, which was taken after the law, 
-                                appoints a son, who has been made perfect forever.
-                            </p>
-                            <p>
-                                The main point of what has been said is this: we have such a high priest, who has taken 
-                                his seat at the right hand of the throne of the Majesty in heaven, a minister of the 
-                                sanctuary and of the true tabernacle that the Lord, not man, set up. Now every high 
-                                priest is appointed to offer gifts and sacrifices; thus the necessity for this one also 
-                                to have something to offer. If then he were on earth, he would not be a priest, since 
-                                there are those who offer gifts according to the law. They worship in a copy and shadow 
-                                of the heavenly sanctuary, as Moses was warned when he was about to erect the tabernacle. 
-                                For God says, "See that you make everything according to the pattern shown you on the 
-                                mountain." Now he has obtained so much more excellent a ministry as he is mediator of a 
-                                better covenant, enacted on better promises. 
+                                "Today I have set before you life and prosperity, death and doom. If you obey the 
+                                commandments of the LORD, your God, which I enjoin on you today, loving him, and walking 
+                                in his ways, and keeping his commandments, statutes and decrees, you will live and grow 
+                                numerous, and the LORD, your God, will bless you in the land you are entering to occupy. 
+                                If, however, you turn away your hearts and will not listen, but are led astray and adore 
+                                and serve other gods, I tell you now that you will certainly perish; you will not have a 
+                                long life on the land that you are crossing the Jordan to enter and occupy. I call 
+                                heaven and earth today to witness against you: I have set before you life and death, the 
+                                blessing and the curse. Choose life, then, that you and your descendants may live, by 
+                                loving the LORD, your God, heeding his voice, and holding fast to him. For that will 
+                                mean life for you, a long life for you to live on the land that the LORD swore he would 
+                                give to your fathers Abraham, Isaac and Jacob." 
                             </p>
                         </div>
                     </div>
@@ -2156,35 +2178,34 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Thursday
-                            <h6 class="modal-title modal-about text-center">Psalm 40:7-8A, 8B-9, 10, 17</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 1:1-2, 3, 4 AND 6</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Here am I, Lord; I come to do your will.</i></strong><br>
-                                Sacrifice or oblation you wished not,<br>
-                                but ears open to obedience you gave me.<br>
-                                Burnt offerings or sin-offerings you sought not;<br>
-								then said I, "Behold I come."<br>
-								<strong><i>R. Here am I, Lord; I come to do your will.</i></strong>
+                                <strong><i>R. Blessed are they who hope in the Lord.</i></strong><br>
+                                Blessed the man who follows not<br>
+                                the counsel of the wicked<br>
+                                Nor walks in the way of sinners,<br>
+								nor sits in the company of the insolent,<br>
+                                But delights in the law of the LORD<br>
+                                and meditates on his law day and night.<br>
+								<strong><i>R. Blessed are they who hope in the Lord.</i></strong>
                             </p>
                             <p>
-                                "In the written scroll it is prescribed for me,<br>
-                                To do your will, O my God, is my delight,<br>
-                                and your law is within my heart!"<br>
-                                <strong><i>R. Here am I, Lord; I come to do your will.</i></strong>
+                                He is like a tree<br>
+                                planted near running water,<br>
+                                That yields its fruit in due season,<br>
+                                and whose leaves never fade.<br>
+                                Whatever he does, prospers.<br>
+                                <strong><i>R. Blessed are they who hope in the Lord.</i></strong>
                             </p>
                             <p>
-                                I announced your justice in the vast assembly;<br>
-                                I did not restrain my lips, as you, O LORD, know. <br>
-                                <strong><i>R. Here am I, Lord; I come to do your will.</i></strong>
-                            </p>
-                            <p>
-                                May all who seek you<br>
-                                exult and be glad in you,<br>
-                                And may those who love your salvation<br>
-                                say ever, "The LORD be glorified."<br>
-                                <strong><i>R. Here am I, Lord; I come to do your will.</i></strong>
+                                Not so the wicked, not so;<br>
+                                they are like chaff which the wind drives away.<br>
+                                For the LORD watches over the way of the just,<br>
+                                but the way of the wicked vanishes.<br>
+                                <strong><i>R. Blessed are they who hope in the Lord.</i></strong>
                             </p>
                         </div>		
                     </div>
@@ -2248,19 +2269,20 @@ and by him you were called to fellowship with his Son, Jesus Christ our Lord.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Thursday
-                            <h6 class="modal-title modal-about text-center">Mark 3:7-12</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 9:22-25</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus withdrew toward the sea with his disciples. A large number of people followed from 
-                                Galilee and from Judea. Hearing what he was doing, a large number of people came to him 
-                                also from Jerusalem, from Idumea, from beyond the Jordan, and from the neighborhood of 
-                                Tyre and Sidon. He told his disciples to have a boat ready for him because of the crowd, 
-                                so that they would not crush him. He had cured many and, as a result, those who had 
-                                diseases were pressing upon him to touch him. And whenever unclean spirits saw him they 
-                                would fall down before him and shout, "You are the Son of God." He warned them sternly 
-                                not to make him known.
+                                Jesus said to his disciples:<br>
+                                "The Son of Man must suffer greatly and be rejected by the elders, the chief priests, 
+                                and the scribes, and be killed and on the third day be raised."
+                            </p>
+                            <p>
+                                Then he said to all, "If anyone wishes to come after me, he must deny himself and take 
+                                up his cross daily and follow me. For whoever wishes to save his life will lose it, but 
+                                whoever loses his life for my sake will save it. What profit is there for one to gain 
+                                the whole world yet lose or forfeit himself?"
                             </p>           
                         </div>
                     </div>
@@ -2279,78 +2301,29 @@ and by him you were called to fellowship with his Son, Jesus Christ our Lord.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Friday
-                            <h6 class="modal-title modal-about text-center">Acts 22:3-16 / Acts 9:1-22</h6>
+                            <h6 class="modal-title modal-about text-center">Isaiah 58:1-9A</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               Paul addressed the people in these words: "I am a Jew, born in Tarsus in Cilicia, but 
-                               brought up in this city. At the feet of Gamaliel I was educated strictly in our ancestral 
-                               law and was zealous for God, just as all of you are today. I persecuted this Way to death, 
-                               binding both men and women and delivering them to prison. Even the high priest and the 
-                               whole council of elders can testify on my behalf. For from them I even received letters 
-                               to the brothers and set out for Damascus to bring back to Jerusalem in chains for 
-                               punishment those there as well.
-                            </p>
-                            <p>
-                                "On that journey as I drew near to Damascus, about noon a great light from the sky 
-                                suddenly shone around me. I fell to the ground and heard a voice saying to me, 'Saul, 
-                                 Saul, why are you persecuting me?' I replied, 'Who are you, sir?' And he said to me, 
-                                 'I am Jesus the Nazorean whom you are persecuting.' My companions saw the light but did 
-                                 not hear the voice of the one who spoke to me. I asked, 'What shall I do, sir?' The 
-                                 Lord answered me, 'Get up and go into Damascus, and there you will be told about 
-                                 everything appointed for you to do.' Since I could see nothing because of the 
-                                 brightness of that light, I was led by hand by my companions and entered Damascus.
-                            </p>
-                            <p>
-                                "A certain Ananias, a devout observer of the law, and highly spoken of by all the Jews 
-                                who lived there, came to me and stood there and said, 'Saul, my brother, regain your 
-                                sight.' And at that very moment I regained my sight and saw him. Then he said, 'The God 
-                                of our ancestors designated you to know his will, to see the Righteous One, and to hear 
-                                the sound of his voice; for you will be his witness before all to what you have seen and 
-                                heard. Now, why delay? Get up and have yourself baptized and your sins washed away, 
-                                calling upon his name.'"
-                            </p>
-                            <p>
-                               <h3>OR</h3>
-                            </p>
-                            <p>
-                                Saul, still breathing murderous threats against the disciples of the Lord, went to the 
-                                high priest and asked him for letters to the synagogues in Damascus, that, if he should 
-                                find any men or women who belonged to the Way, he might bring them back to Jerusalem in 
-                                chains. On his  journey, as he was nearing Damascus, a light from the sky suddenly 
-                                flashed around him. He fell to the ground and heard a voice saying to him, "Saul, Saul, 
-                                why are you persecuting me?" He said, "Who are you, sir?" The reply came, "I am Jesus, 
-                                whom you are persecuting. Now get up and go into the city and you will be told what you 
-                                must do." The men who were traveling with him stood speechless, for they heard the voice 
-                                but could see no one. Saul got up from the ground, but when he opened his eyes he could 
-                                see nothing; so they led him by the hand and brought him to Damascus. For three days he 
-                                was unable to see, and he neither ate nor drank.
-                            </p>
-                            <p>
-                                There was a disciple in Damascus named Ananias, and the Lord said to him in a vision, 
-                                Ananias." He answered, "Here I am, Lord." The Lord said to him, "Get up and go to the 
-                                street called Straight and ask at the house of Judas for a man from Tarsus named Saul. 
-                                He is there praying, and in a vision he has seen a man named Ananias come in and lay his 
-                                hands on him, that he may regain his sight." But Ananias replied, "Lord, I have heard 
-                                from many sources about this man, what evil things he has done to your holy ones in 
-                                Jerusalem. And here he has authority from the chief priests to imprison all who call 
-                                upon your name." But the Lord said to him, "Go, for this man is a chosen instrument of 
-                                mine to carry my name before Gentiles, kings, and children of Israel, and I will show 
-                                him what he will have to suffer for my name." So Ananias went and entered the house; 
-                                laying his hands on him, he said, "Saul, my brother, the Lord has sent me, Jesus who 
-                                appeared to you on the way by which you came, that you may regain your sight and be 
-                                filled with the Holy Spirit." Immediately things like scales fell from his eyes and he 
-                                regained his sight. He got up and was baptized, and when he had eaten, he recovered his 
-                                strength.
-                            </p>
-                            <p>
-                                He stayed some days with the disciples in Damascus, and he began at once to proclaim 
-                                Jesus in the synagogues, that he is the Son of God. All who heard him were astounded and 
-                                said, "Is not this the man who in Jerusalem ravaged those who call upon this name, and 
-                                came here expressly to take them back in chains to the chief priests?" But Saul grew all 
-                                the stronger and confounded the Jews who lived in Damascus, proving that this is the 
-                                Christ.
+                               Thus says the Lord GOD:<br>
+                               Cry out full-throated and unsparingly, lift up your voice like a trumpet blast; Tell my 
+                               people their wickedness, and the house of Jacob their sins. They seek me day after day, 
+                               and desire to know my ways, Like a nation that has done what is just and not abandoned 
+                               the law of their God; They ask me to declare what is due them, pleased to gain access to 
+                               God. "Why do we fast, and you do not see it? afflict ourselves, and you take no note of 
+                               it?" Lo, on your fast day you carry out your own pursuits, and drive all your laborers. 
+                               Yes, your fast ends in quarreling and fighting, striking with wicked claw. Would that 
+                               today you might fast so as to make your voice heard on high! Is this the manner of 
+                               fasting I wish, of keeping a day of penance: That a man bow his head like a reed and lie 
+                               in sackcloth and ashes? Do you call this a fast, a day acceptable to the LORD? This, 
+                               rather, is the fasting that I wish: releasing those bound unjustly, untying the thongs of 
+                               the yoke; Setting free the oppressed, breaking every yoke; Sharing your bread with the 
+                               hungry, sheltering the oppressed and the homeless; Clothing the naked when you see them, 
+                               and not turning your back on your own. Then your light shall break forth like the dawn, 
+                               and your wound shall quickly be healed; Your vindication shall go before you, and the 
+                               glory of the LORD shall be your rear guard. Then you shall call, and the LORD will answer, 
+                               you shall cry for help, and he will say: Here I am!
                             </p>                                     
                         </div>
                     </div>
@@ -2369,21 +2342,32 @@ and by him you were called to fellowship with his Son, Jesus Christ our Lord.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Friday
-                            <h6 class="modal-title modal-about text-center">Psalm 117:1BC, 2</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 51:3-4, 5-6AB, 18-19</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Go out to all the world, and tell the Good News.</i></strong><br>
-                                Praise the LORD, all you nations;<br>
-                                glorify him, all you peoples!<br>
-								<strong><i>R. Go out to all the world, and tell the Good News.</i></strong>
+                                <strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong><br>
+                                Have mercy on me, O God, in your goodness;<br>
+                                in the greatness of your compassion wipe out my offense.<br>
+                                Thoroughly wash me from my guilt<br>
+                                and of my sin cleanse me.<br>
+								<strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong>
                             </p>
                             <p>
-                                For steadfast is his kindness toward us,<br>
-                                and the fidelity of the LORD endures forever.<br>
-                               <strong><i>R. Go out to all the world, and tell the Good News.</i></strong>
-                            </p>                            
+                                For I acknowledge my offense,<br>
+                                and my sin is before me always:<br>
+                                "Against you only have I sinned,<br>
+                                and done what is evil in your sight."<br>
+                               <strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong>
+                            </p> 
+                            <p>
+                                For you are not pleased with sacrifices;<br>
+                                should I offer a burnt offering, you would not accept it.<br>
+                                My sacrifice, O God, is a contrite spirit;<br>
+                                a heart contrite and humbled, O God, you will not spurn.<br>
+                                <strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong>
+                            </p>                           
                         </div>
                     </div>
                 </div>
@@ -2440,17 +2424,15 @@ We know that Christ, raised from the dead, dies no more; death no longer has pow
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Friday
-                            <h6 class="modal-title modal-about text-center">Mark 16:15-18</h6>
+                            <h6 class="modal-title modal-about text-center">Mathew 9:14-15</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               Jesus appeared to the Eleven and said to them: "Go into the whole world and proclaim the 
-                               Gospel to every creature. Whoever believes and is baptized will be saved; whoever does 
-                               not believe will be condemned. These signs will accompany those who believe: in my name 
-                               they will drive out demons, they will speak new languages. They will pick up serpents 
-                               with their hands, and if they drink any deadly thing, it will not harm them. They will 
-                               lay hands on the sick, and they will recover."
+                               The disciples of John approached Jesus and said, "Why do we and the Pharisees fast much, 
+                               but your disciples do not fast?" Jesus answered them, "Can the wedding guests mourn as 
+                               long as the bridegroom is with them? The days will come when the bridegroom is taken away 
+                               from them, and then they will fast."
                          </p>
                     </div>
                 </div>
@@ -2469,44 +2451,25 @@ We know that Christ, raised from the dead, dies no more; death no longer has pow
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Saturday
-                            <h6 class="modal-title modal-about text-center">2 Timothy 1:1-8316 / Titus 1:1-5</h6>
+                            <h6 class="modal-title modal-about text-center">Isaiah 58:9B-14</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               Paul, an Apostle of Christ Jesus by the will of God for the promise of life in Christ 
-                               Jesus, to Timothy, my dear child: grace, mercy, and peace from God the Father and Christ 
-                               Jesus our Lord.
-                            </p>
-                            <p>
-                                I am grateful to God, whom I worship with a clear conscience as my ancestors did, as I 
-                                remember you constantly in my prayers, night and day. I yearn to see you again, 
-                                recalling your tears, so that I may be filled with joy, as I recall your sincere faith 
-                                that first lived in your grandmother Lois and in your mother Eunice and that I am 
-                                confident lives also in you.
-                            </p>
-                            <p>
-                                For this reason, I remind you to stir into flame the gift of God that you have through 
-                                the imposition of my hands. For God did not give us a spirit of cowardice but rather of 
-                                power and love and self-control. So do not be ashamed of your testimony to our Lord, nor 
-                                of me, a prisoner for his sake; but bear your share of hardship for the Gospel with the 
-                                strength that comes from God.
-                            </p>
-                            <p>
-                               <h3>OR</h3>
-                            </p>
-                            <p>
-                                Paul, a slave of God and Apostle of Jesus Christ for the sake of the faith of God’s 
-                                chosen ones and the recognition of religious truth, in the hope of eternal life that 
-                                God, who does not lie, promised before time began, who indeed at the proper time 
-                                revealed his word in the proclamation with which I was entrusted by the command of God 
-                                our savior, to Titus, my true child in our common faith: grace and peace from God the 
-                                Father and Christ Jesus our savior.
-                            </p>
-                            <p>
-                                For this reason I left you in Crete so that you might set right what remains to be done 
-                                and appoint presbyters in every town, as I directed you.
-                            </p>
+                                Thus says the LORD:<br>
+                                If you remove from your midst oppression, false accusation and malicious speech; If you 
+                                bestow your bread on the hungry and satisfy the afflicted; Then light shall rise for you 
+                                in the darkness, and the gloom shall become for you like midday; Then the LORD will guide 
+                                you always and give you plenty even on the parched land. He will renew your strength, and 
+                                you shall be like a watered garden, like a spring whose water never fails. The ancient 
+                                ruins shall be rebuilt for your sake, and the foundations from ages past you shall raise 
+                                up; "Repairer of the breach," they shall call you, "Restorer of ruined homesteads." If 
+                                you hold back your foot on the sabbath from following your own pursuits on my holy day; 
+                                <strong>If you call the sabbath a delight, and the LORD's holy day honorable; If you honor it by 
+                                not following your ways, seeking your own interests, or speaking with malice. Then you 
+                                shall delight in the LORD, and I will make you ride on the heights of the earth; I will 
+                                nourish you with the heritage of Jacob, your father, for the mouth of the LORD has spoken.</strong>
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -2525,34 +2488,32 @@ We know that Christ, raised from the dead, dies no more; death no longer has pow
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
-                            <h6 class="modal-title modal-about text-center">Psalm 96:1-2A, 2B-3, 7-8A, 10</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 86:1-2, 3-4, 5-6</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Proclaim God's marvelous deeds to all the nations.</i></strong><br>
-                               Sing to the LORD a new song;<br>
-                               sing to the LORD, all you lands.<br>
-							   Sing to the LORD; bless his name.<br>
-							   <strong><i>R. Proclaim God's marvelous deeds to all the nations.</i></strong>
+                                <strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong><br>
+                                Incline your ear, O LORD; answer me,<br>
+                                for I am afflicted and poor.<br>
+                                Keep my life, for I am devoted to you;<br>
+                                save your servant who trusts in you.<br>
+                                You are my God.<br>
+							    <strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong>
                             </p>
                             <p>
-                               Announce his salvation, day after day.<br>
-                                Tell his glory among the nations;<br>
-								among all peoples, his wondrous deeds.<br>
-								<strong><i>R. Proclaim God's marvelous deeds to all the nations.</i></strong>
+                                Have mercy on me, O Lord,<br>
+                                for to you I call all the day.<br>
+                                Gladden the soul of your servant,<br>
+                                for to you, O Lord, I lift up my soul.<br>
+								<strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong>
                             </p>
                             <p>
-                                Give to the LORD, you families of nations,<br>
-                                give to the LORD glory and praise;<br>
-                                give to the LORD the glory due his name!<br>
-                                <strong><i>R. Proclaim God's marvelous deeds to all the nations.</i></strong>
-                            </p>
-                            <p>
-                                Say among the nations: The LORD is king.<br>
-                                He has made the world firm, not to be moved;<br>
-                                he governs the peoples with equity.<br>
-                                <strong><i>R. Proclaim God's marvelous deeds to all the nations.</i></strong>
+                                For you, O Lord, are good and forgiving,<br>
+                                abounding in kindness to all who call upon you.<br>
+                                Hearken, O LORD, to my prayer<br>
+                                and attend to the sound of my pleading.<br>
+                                <strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -2609,14 +2570,18 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Saturday
-                            <h6 class="modal-title modal-about text-center">Mark 3:20-21</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 5:27-32</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               Jesus came with his disciples into the house. Again the crowd gathered, making it 
-                               impossible for them even to eat. When his relatives heard of this they set out to seize 
-                               him, for they said, "He is out of his mind."
+                                Jesus saw a tax collector named Levi sitting at the customs post. He said to him, 
+                                "Follow me." And leaving everything behind, he got up and followed him. Then Levi gave 
+                                a great banquet for him in his house, and a large crowd of tax collectors and others 
+                                were at table with them. The Pharisees and their scribes complained to his disciples, 
+                                saying, "Why do you eat and drink with tax collectors and sinners?" Jesus said to them 
+                                in reply, "Those who are healthy do not need a physician, but the sick do. I have not 
+                                come to call the righteous to repentance but sinners."
                             </p>           
                         </div>
                     </div>
@@ -2636,28 +2601,23 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">Nehemiah 8:2-4A, 5-6, 8-10</h6>
+                            <h6 class="modal-title modal-about text-center">Deuteronomy 26:4-10</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                 Ezra the priest brought the law before the assembly, which consisted of men, women, and 
-                                 those children old enough to understand. Standing at one end of the open place that was 
-                                 before the Water Gate, he read out of the book from daybreak till midday, in the 
-                                 presence of the men, the women, and those children old enough to understand; and all 
-                                 the people listened attentively to the book of the law. Ezra the scribe stood on a 
-                                 wooden platform that had been made for the occasion. He opened the scroll so that all 
-                                 the people might see it - for he was standing higher up than any of the people; and, as 
-                                 he opened it, all the people rose. Ezra blessed the LORD, the great God, and all the 
-                                 people, their hands raised high, answered, "Amen, amen!" Then they bowed down and 
-                                 prostrated themselves before the LORD, their faces to the ground. Ezra read plainly 
-                                 from the book of the law of God, interpreting it so that all could understand what was 
-                                 read. Then Nehemiah, that is, His Excellency, and Ezra the priest-scribe and the 
-                                 Levites who were instructing the people said to all the people: "Today is holy to the 
-                                 LORD your God. Do not be sad, and do not weep" for all the people were weeping as they 
-                                 heard the words of the law. He said further: "Go, eat rich foods and drink sweet drinks, 
-                                 and allot portions to those who had nothing prepared; for today is holy to our LORD. Do 
-                                 not be saddened this day, for rejoicing in the LORD must be your strength!"
+                                 Moses spoke to the people, saying:<br>
+                                 "The priest shall receive the basket from you and shall set it in front of the altar of 
+                                 the LORD, your God. Then you shall declare before the Lord, your God, 'My father was a 
+                                 wandering Aramean who went down to Egypt with a small household and lived there as an 
+                                 alien. But there he became a nation great, strong, and numerous. When the Egyptians 
+                                 maltreated and oppressed us, imposing hard labor upon us, we cried to the LORD, the God 
+                                 of our fathers, and he heard our cry and saw our affliction, our toil, and our oppression. 
+                                 He brought us out of Egypt with his strong hand and outstretched arm, with terrifying 
+                                 power, with signs and wonders; and bringing us into this country, he gave us this land 
+                                 flowing with milk and honey. Therefore, I have now brought you the first-fruits of the 
+                                 products of the soil which you, O LORD, have given me.' And having set them before the 
+                                 Lord, your God, you shall bow down in his presence."
                             </p>
                         </div>
                     </div>
@@ -2677,37 +2637,39 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Sunday
-                            <h6 class="modal-title modal-about text-center">Psalm 19:8, 9, 10, 15</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 91:1-2, 10-11, 12-13, 14-15</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Your words, Lord, are Spirit and life.</i></strong><br>
-                                The law of the LORD is perfect,<br>
-                                refreshing the soul;<br>
-								The decree of the LORD is trustworthy,<br>
-								giving wisdom to the simple.<br>
-								<strong><i>R. Your words, Lord, are Spirit and life.</i></strong>
+                                <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong><br>
+                                You who dwell in the shelter of the Most High,<br>
+                                who abide in the shadow of the Almighty,<br>
+                                say to the LORD, "My refuge and fortress,<br>
+                                my God in whom I trust."<br>
+								<strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
                             </p>
                             <p>
-                                The precepts of the LORD are right,<br>
-                                rejoicing the heart;<br>
-                                The command of the LORD is clear,<br>
-                                enlightening the eye.<br>
-                                <strong><i>R. Your words, Lord, are Spirit and life.</i></strong>
+                                No evil shall befall you,<br>
+                                nor shall affliction come near your tent,<br>
+                                For to his angels he has given command about you,<br>
+                                that they guard you in all your ways.<br>
+                                <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
                             </p>
                             <p>
-                                The fear of the LORD is pure,<br>
-                                enduring forever;<br>
-                                The ordinances of the LORD are true,<br>
-                                all of them just.<br>
-                               <strong><i>R. Your words, Lord, are Spirit and life.</i></strong>
+                                Upon their hands they shall bear you up,<br>
+                                lest you dash your foot against a stone.<br>
+                                You shall tread upon the asp and the viper;<br>
+                                you shall trample down the lion and the dragon.<br>
+                                <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
 						   </p>
 						   <p>
-						        Let the words of my mouth and the thought of my heart<br>
-						        find favor before you,<br>
-						       O LORD, my rock and my redeemer.<br>
-						       <strong><i>R. Your words, Lord, are Spirit and life.</i></strong>
+						        Because he clings to me, I will deliver him;<br>
+                                I will set him on high because he acknowledges my name.<br>
+                                He shall call upon me, and I will answer him;<br>
+                                I will be with him in distress;<br>
+                                I will deliver him and glorify him.<br>
+						       <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
 						   </p>
                         </div>
                     </div>
@@ -2726,56 +2688,19 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">2nd Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">1 Corinthians 12:12-30 / 1 Corinthians 12:12-14, 27</h6>
+                            <h6 class="modal-title modal-about text-center">Romans 10:8-13</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
                                Brothers and sisters:<br>
-                               As a body is one though it has many parts, and all the parts of the body, though many, 
-                               are one body, so also Christ. For in one Spirit we were all baptized into one body, 
-                               whether Jews or Greeks, slaves or free persons, and we were all given to drink of one 
-                               Spirit.
-                            </p>
-                            <p>
-                                Now the body is not a single part, but many. If a foot should say, "Because I am not a 
-                                hand I do not belong to the body," it does not for this reason belong any less to the 
-                                body. Or if an ear should say, "Because I am not an eye I do not belong to the body,"
-                            </p>
-                            <p>
-                                it does not for this reason belong any less to the body. If the whole body were an eye, 
-                                where would the hearing be? If the whole body were hearing, where would the sense of 
-                                smell be? But as it is, God placed the parts, each one of them, in the body as he 
-                                intended. If they were all one part, where would the body be? But as it is, there are 
-                                many parts, yet one body. The eye cannot say to the hand, "I do not need you," nor 
-                                again the head to the feet, "I do not need you." Indeed, the parts of the body that seem 
-                                to be weaker are all the more necessary, and those parts of the body that we consider 
-                                less honorable we surround with greater honor, and our less presentable parts are 
-                                treated with greater propriety, whereas our more presentable parts do not need this. But 
-                                God has so constructed the body as to give greater honor to a part that is without it, 
-                                so that there may be no division in the body, but that the parts may have the same 
-                                concern for one another.If one part suffers, all the parts suffer with it; if one part 
-                                is honored, all the parts share its joy.
-                            </p>
-                            <p>
-                                Now you are Christ's body, and individually parts of it. Some people God has designated 
-                                in the church to be, first, apostles; second, prophets; third, teachers; then, mighty 
-                                deeds; then gifts of healing, assistance, administration, and varieties of tongues. Are 
-                                all apostles? Are all prophets? Are all teachers? Do all work mighty deeds? Do all have 
-                                gifts of healing? Do all speak in tongues? Do all interpret?
-                            </p>          
-                            <p>
-                                <h3>OR</h3>
-                            </p> 
-                            <p>
-                                Brothers and sisters:<br>
-                                As a body is one though it has many parts, and all the parts of the body, though many, 
-                                are one body, so also Christ. For in one Spirit we were all baptized into one body, 
-                                whether Jews or Greeks, slaves or free persons,
-                            </p>
-                            <p>
-                                and we were all given to drink of one Spirit. Now the body is not a single part, but 
-                                many. You are Christ's body, and individually parts of it.
+                               What does Scripture say? The word is near you, in your mouth and in your heart that is, 
+                               the word of faith that we preach, for, if you confess with your mouth that Jesus is Lord 
+                               and believe in your heart that God raised him from the dead, you will be saved. For one 
+                               believes with the heart and so is justified, and one confesses with the mouth and so is 
+                               saved. For the Scripture says, No one who believes in him will be put to shame. For there 
+                               is no distinction between Jew and Greek; the same Lord is Lord of all, enriching all who 
+                               call upon him. For "everyone who calls on the name of the Lord will be saved."
                             </p>    
                         </div>
                     </div>
@@ -2794,34 +2719,26 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">Luke 1:1-4; 4:14-21</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 4:1-13</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Since many have undertaken to compile a narrative of the events that have been fulfilled 
-                                among us, just as those who were eyewitnesses from the beginning and ministers of the 
-                                word have handed them down to us, I too have decided, after investigating everything 
-                                accurately anew, to write it down in an orderly sequence for you, most excellent 
-                                Theophilus, so that you may realize the certainty of the teachings you have received.
-                            </p>
-                            <p>
-                                Jesus returned to Galilee in the power of the Spirit, and news of him spread throughout 
-                                the whole region. He taught in their synagogues and was praised by all.
-                            </p>
-                            <p>
-                                He came to Nazareth, where he had grown up, and went according to his custom into the 
-                                synagogue on the sabbath day. He stood up to read and was handed a scroll of the prophet 
-                                Isaiah. He unrolled the scroll and found the passage where it was written: The Spirit of 
-                                the Lord is upon me, because he has anointed me to bring glad tidings to the poor. He 
-                                has sent me to proclaim liberty to captives and recovery of sight to the blind, to let 
-                                the oppressed go free, and to proclaim a year acceptable to the Lord. Rolling up the 
-                                scroll, he handed it back to the attendant and sat down, and the eyes of all in the 
-                                synagogue looked intently at him.
-                            </p>
-                            <p>
-                                He said to them,<br>
-                                "Today this Scripture passage is fulfilled in your hearing."
+                                Filled with the Holy Spirit, Jesus returned from the Jordan and was led by the Spirit 
+                                into the desert for forty days, to be tempted by the devil. He ate nothing during those 
+                                days, and when they were over he was hungry. The devil said to him, "If you are the Son 
+                                of God, command this stone to become bread." Jesus answered him, "It is written, One 
+                                does not live on bread alone." Then he took him up and showed him all the kingdoms of 
+                                the world in a single instant. The devil said to him, "I shall give to you all this 
+                                power and glory; for it has been handed over to me, and I may give it to whomever I wish. 
+                                All this will be yours, if you worship me." Jesus said to him in reply, "It is written: 
+                                You shall worship the Lord, your God, and him alone shall you serve." Then he led him to 
+                                Jerusalem, made him stand on the parapet of the temple, and said to him, "If you are the 
+                                Son of God, throw yourself down from here, for it is written: He will command his angels 
+                                concerning you, to guard you, and: With their hands they will support you, lest you dash 
+                                your foot against a stone." Jesus said to him in reply, "It also says, You shall not put 
+                                the Lord, your God, to the test." When the devil had finished every temptation, he 
+                                departed from him for a time.
                             </p>
                         </div>
                     </div>
