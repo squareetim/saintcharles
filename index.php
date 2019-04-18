@@ -937,15 +937,15 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/Saints_Perpetua_and_Felicitas.jpg" alt="Perpetua and Felicity" width="140" height="140">
-                    <h5><strong>Perpetua and Felicity<br> (died 203)</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/Conrad_of_Parzham.jpg" alt="Conrad of Parzham" width="140" height="140">
+                    <h5><strong>Conrad of Parzham<br> (1818-1894)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
                     <p>
-                        Martyrs in Carthage, now in Tunisia, these young women — the noblewoman Perpetua and the slave Felicity — were among five catechumens who, after refusing to worship the Roman emperor, were arrested and condemned to be thrown to wild beasts. They were baptized in prison, where Felicity also gave birth to a daughter. In the Carthage arena, they were attacked by a beast, which did not kill them, so their throats were cut by a gladiator.
+                        Born in Bavaria, in Germany, Conrad Birndorfer was the youngest of nine children of pious farmers. Even as a youth, he had a strong devotion to Our Lady. At age 16, after his parents died, he combined running the family farm with a life of prayer and charity. He joined the Capuchins as a lay brother in 1849 and made solemn vows in 1852. For 40 years, he was the doorkeeper at the famous Bavarian shrine of Our Lady of Altotting where he counseled thousands of pilgrims, helped care for abandoned children and practiced exceptional humility.
                     </p>
                     
-                <p class="text-muted">&copy; Catholic News Services - Perpetua and Felicity</p>
+                <p class="text-muted">&copy; Catholic News Services - Conrad of Parzham</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -1052,7 +1052,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                                 <dd class="text-left">
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_1st_reading">1st Reading &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_res_psalm">Responsorial Psalm &raquo;</a> </p>
-                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_2nd_reading">2nd Reading &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_gospel_reading">Gospel Reading &raquo;</a> </p>
                                     <strong><center>Click above for your readings</center></strong>
                                 </dd>
@@ -1076,7 +1076,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                                 <dd class="text-left">
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_1st_reading">1st Reading &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_res_psalm">Responsorial Psalm &raquo;</a> </p>
-                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_2nd_reading">2nd Reading &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_gospel_reading">Gospel Reading &raquo;</a> </p>
                                     <strong><center>Click above for your readings</center></strong>
                                 </dd>
@@ -1102,7 +1102,19 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                                 <dd class="text-left">
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_1st_reading">1st Reading &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm">Responsorial Psalm &raquo;</a> </p>
-                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_2nd_reading">2nd Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm1">Responsorial Psalm &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_3rd_reading">3rd Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm2">Responsorial Psalm &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_4th_reading">4th Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm3">Responsorial Psalm &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_5th_reading">5th Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm4">Responsorial Psalm &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_6th_reading">6th Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm5">Responsorial Psalm &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_7th_reading">7th Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm6">Responsorial Psalm &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#epistle">Epistle &raquo;</a> </p>
                                     <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_gospel_reading">Gospel Reading &raquo;</a> </p>
                                     <strong><center>Click above for your readings</center></strong>
                                 </dd>
@@ -1686,23 +1698,15 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Monday<br>
-                            <h6 class="modal-title modal-about text-center">Sirach 17:20-24</h6>
+                            <h6 class="modal-title modal-about text-center">Isaiah 42:1-7</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                To the penitent God provides a way back, he encourages those who are losing hope and has 
-                                chosen for them the lot of truth. Return to him and give up sin, pray to the LORD and make 
-                                your offenses few. Turn again to the Most High and away from your sin, hate intensely what 
-                                he loathes, and know the justice and judgments of God, Stand firm in the way set before you, 
-                                in prayer to the Most High God.
+                                Here is my servant whom I uphold, my chosen one with whom I am pleased, Upon whom I have put my Spirit; he shall bring forth justice to the nations, Not crying out, not shouting, not making his voice heard in the street. A bruised reed he shall not break, and a smoldering wick he shall not quench, Until he establishes justice on the earth; the coastlands will wait for his teaching.
                             </p>
                             <p>
-                                Who in the nether world can glorify the Most High in place of the living who offer their 
-                                praise? Dwell no longer in the error of the ungodly, but offer your praise before death. 
-                                No more can the dead give praise than those who have never lived; You who are alive and 
-                                well shall praise and glorify God in his mercies. How great the mercy of the LORD, his 
-                                forgiveness of those who return to him!
+                                Thus says God, the LORD, who created the heavens and stretched them out, who spreads out the earth with its crops, Who gives breath to its people and spirit to those who walk on it: I, the LORD, have called you for the victory of justice, I have grasped you by the hand; I formed you, and set you as a covenant of the people, a light for the nations, To open the eyes of the blind, to bring out prisoners from confinement, and from the dungeon, those who live in darkness.
                             </p>                           
                         </div>
                     </div>
@@ -1721,36 +1725,38 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Monday<br>
-                            <h6 class="modal-title modal-about text-center">Psalm 32:1-2, 5, 6, 7</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 27:1, 2, 3, 13-14</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong><br>
-                                Blessed is he whose fault is taken away,<br>
-                                whose sin is covered.<br>
-                                Blessed the man to whom the LORD imputes not guilt,<br>
-                                in whose spirit there is no guile.<br>
-                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
+                                <strong><i>R. The Lord is my light and my salvation.</i></strong><br>
+                                The LORD is my light and my salvation;<br>
+                                 whom should I fear?<br> 
+                                 The LORD is my life's refuge;<br> 
+                                 of whom should I be afraid?<br>
+                                <strong><i>R. The Lord is my light and my salvation.</i></strong>
                             </p>
                             <p>
-                               Then I acknowledged my sin to you,<br>
-                             my guilt I covered not.<br>
-                             I said, "I confess my faults to the LORD,"<br>
-                             and you took away the guilt of my sin.<br>
-                             <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
+                               TWhen evildoers come at me<br> 
+                               to devour my flesh,<br> 
+                               My foes and my enemies<br> 
+                               themselves stumble and fall.<br>
+                             <strong><i>R. The Lord is my light and my salvation.</i></strong>
                             </p>    				
                             <p>
-                                For this shall every faithful man pray to you<br>
-                                in time of stress.<br>
-                                Though deep waters overflow,<br>
-                                they shall not reach him.<br>
-                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
+                                Though an army encamp against me,<br> 
+                                my heart will not fear;<br> 
+                                Though war be waged upon me,<br> 
+                                even then will I trust.<br>
+                                <strong><i>R. The Lord is my light and my salvation.</i></strong>
                             </p>
                             <p>
-                                You are my shelter; from distress you will preserve me;<br>
-                                with glad cries of freedom you will ring me round.<br>
-                                <strong><i>R. Let the just exult and rejoice in the Lord.</i></strong>
+                                believe that I shall see the bounty of the LORD<br> 
+                                in the land of the living.<br> 
+                                Wait for the LORD with courage;<br> 
+                                be stouthearted, and wait for the LORD.<br>
+                                <strong><i>R. The Lord is my light and my salvation.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -1794,26 +1800,15 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Monday
-                            <h6 class="modal-title modal-about text-center">Mark 10:17-27</h6> 
+                            <h6 class="modal-title modal-about text-center">John 12:1-11</h6> 
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               As Jesus was setting out on a journey, a man ran up, knelt down before him, and asked him, 
-                               "Good teacher, what must I do to inherit eternal life?" Jesus answered him, "Why do you 
-                               call me good? No one is good but God alone. You know the commandments: <strong>You shall not kill; 
-                               you shall not commit adultery; you shall not steal; you shall not bear false witness; 
-                               you shall not defraud; honor your father and your mother.</strong>" He replied and said to him, 
-                               "Teacher, all of these I have observed from my youth." Jesus, looking at him, loved him 
-                               and said to him, <strong>"You are lacking in one thing. Go, sell what you have, and give to the 
-                               poor and you will have treasure in heaven; then come, follow me."</strong> At that statement, his 
-                               face fell, and he went away sad, for he had many possessions.
+                               Six days before Passover Jesus came to Bethany, where Lazarus was, whom Jesus had raised from the dead. They gave a dinner for him there, and Martha served, while Lazarus was one of those reclining at table with him. Mary took a liter of costly perfumed oil made from genuine aromatic nard and anointed the feet of Jesus and dried them with her hair; the house was filled with the fragrance of the oil. Then Judas the Iscariot, one of his disciples, and the one who would betray him, said, "Why was this oil not sold for three hundred days' wages and given to the poor?" He said this not because he cared about the poor but because he was a thief and held the money bag and used to steal the contributions. So Jesus said, "Leave her alone. Let her keep this for the day of my burial. You always have the poor with you, but you do not always have me."
                             </p>
                             <p>
-                                Jesus looked around and said to his disciples, "How hard it is for those who have wealth 
-                                to enter the Kingdom of God!" The disciples were amazed at his words. So Jesus again 
-                                said to them in reply, "Children, how hard it is to enter the Kingdom of God! It is 
-                                easier for a camel to pass through the eye of a needle.
+                                The large crowd of the Jews found out that he was there and came, not only because of him, but also to see Lazarus, whom he had raised from the dead. And the chief priests plotted to kill Lazarus too, because many of the Jews were turning away and believing in Jesus because of him.
                             </p>                    
                         </div>
                     </div>
@@ -1832,26 +1827,15 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Tuesday
-                            <h6 class="modal-title modal-about text-center">Sirach 35:1-12</h6>
+                            <h6 class="modal-title modal-about text-center">Isaiah 49:1-6</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                To keep the law is a great oblation, and he who observes the commandments sacrifices a 
-                                peace offering. In works of charity one offers fine flour, and when he gives alms he 
-                                presents his sacrifice of praise. To refrain from evil pleases the LORD, and to avoid 
-                                injustice is an atonement. Appear not before the LORD empty-handed, for all that you 
-                                offer is in fulfillment of the precepts. The just one's offering enriches the altar and 
-                                rises as a sweet odor before the Most High. The just one's sacrifice is most pleasing, 
-                                nor will it ever be forgotten. In a generous spirit pay homage to the LORD, be not 
-                                sparing of freewill gifts. With each contribution show a cheerful countenance, and pay 
-                                your tithes in a spirit of joy. Give to the Most High as he has given to you, 
-                                generously, according to your means. 
+                                Hear me, O islands, listen, O distant peoples. The LORD called me from birth, from my mother's womb he gave me my name. He made of me a sharp-edged sword and concealed me in the shadow of his arm. He made me a polished arrow, in his quiver he hid me. You are my servant, he said to me, Israel, through whom I show my glory.
                             </p>
                             <p>
-                                For the LORD is one who always repays, and he will give back to you sevenfold. But offer 
-                                no bribes, these he does not accept! Trust not in sacrifice of the fruits of extortion. 
-                                For he is a God of justice, who knows no favorites.
+                                Though I thought I had toiled in vain, and for nothing, uselessly, spent my strength, Yet my reward is with the LORD, my recompense is with my God. For now the LORD has spoken who formed me as his servant from the womb, That Jacob may be brought back to him and Israel gathered to him; And I am made glorious in the sight of the LORD, and my God is now my strength! It is too little, he says, for you to be my servant, to raise up the tribes of Jacob, and restore the survivors of Israel; I will make you a light to the nations, that my salvation may reach to the ends of the earth.
                             </p>                            
                        </div>
                     </div>
@@ -1870,32 +1854,38 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Tuesday
-                            <h6 class="modal-title modal-about text-center">Psalm 50:5-6, 7-8, 14 And 23</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 71:1-2, 3-4A, 5AB-6AB, 15 AND 17</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. To the upright I will show the saving power of God.</i></strong><br>
-                               "Gather my faithful ones before me,<br>
-                                those who have made a covenant with me by sacrifice."<br>
-                                And the heavens proclaim his justice;<br> 
-                               for God himself is the judge.<br>								
-                               <strong><i>R. To the upright I will show the saving power of God.</i></strong>
+                                <strong><i>R. I will sing of your salvation.</i></strong><br>
+                               In you, O LORD, I take refuge;<br> 
+                               let me never be put to shame.<br> 
+                               In your justice rescue me, and deliver me;<br> 
+                               incline your ear to me, and save me.<br>								
+                               <strong><i>R. I will sing of your salvation.</i></strong>
                             </p>
                             <p>
-                                "Hear, my people, and I will speak;<br>
-                                Israel, I will testify against you;<br>
-                             	God, your God, am I.<br>
-                             	Not for your sacrifices do I rebuke you,<br>
-                             	for your burnt offerings are before me always."<br>
-                                <strong><i>R. To the upright I will show the saving power of God.</i></strong>
+                                Be my rock of refuge,<br> 
+                                a stronghold to give me safety,<br> 
+                                for you are my rock and my fortress.<br> 
+                                O my God, rescue me from the hand of the wicked.<br>
+                                <strong><i>R. I will sing of your salvation.</i></strong>
                             </p>
                             <p>
-                                "Offer to God praise as your sacrifice<br>
-                                and fulfill your vows to the Most High.<br>
-                                He that offers praise as a sacrifice glorifies me;<br>
-                              	and to him that goes the right way I will show the salvation of God."<br>
-                              	<strong><i>R. To the upright I will show the saving power of God.</i></strong>
+                                For you are my hope, O LORD;<br> 
+                                my trust, O God, from my youth.<br> 
+                                On you I depend from birth;<br> 
+                                from my mother's womb you are my strength.<br>
+                              	<strong><i>R. I will sing of your salvation.</i></strong>
+							</p>
+							<p>
+							    My mouth shall declare your justice,<br>
+							    day by day your salvation.<br> 
+							    O God, you have taught me from my youth,<br> 
+							    and till the present I proclaim your wondrous deeds.<br>
+							    <strong><i>R. I will sing of your salvation.</i></strong>
 							</p>
                          </div>
                     </div>
@@ -1946,18 +1936,19 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Tuesday
-                            <h6 class="modal-title modal-about text-center">Mark 10:28-31</h6>
+                            <h6 class="modal-title modal-about text-center">John 13:21-33, 36-38</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Peter began to say to Jesus, 'We have given up everything and followed you." Jesus said, 
-                                "Amen, I say to you, there is no one who has given up house or brothers or sisters or 
-                                mother or father or children or lands for my sake and for the sake of the Gospel who 
-                                will not receive a hundred times more now in this present age: houses and brothers and 
-                                sisters and mothers and children and lands, with persecutions, and eternal life in the 
-                                age to come. But many that are first will be last, and the last will be first."
+                                Reclining at table with his disciples, Jesus was deeply troubled and testified, "Amen, amen, I say to you, one of you will betray me." The disciples looked at one another, at a loss as to whom he meant. One of his disciples, the one whom Jesus loved, was reclining at Jesus' side. So Simon Peter nodded to him to find out whom he meant. He leaned back against Jesus' chest and said to him, "Master, who is it?" Jesus answered, "It is the one to whom I hand the morsel after I have dipped it." So he dipped the morsel and took it and handed it to Judas, son of Simon the Iscariot. After Judas took the morsel, Satan entered him. So Jesus said to him, "What you are going to do, do quickly." Now none of those reclining at table realized why he said this to him. Some thought that since Judas kept the money bag, Jesus had told him, "Buy what we need for the feast," or to give something to the poor. So Judas took the morsel and left at once. And it was night.
                             </p>                   
+                            <p>
+                                When he had left, Jesus said, "Now is the Son of Man glorified, and God is glorified in him. If God is glorified in him, God will also glorify him in himself, and he will glorify him at once. My children, I will be with you only a little while longer. You will look for me, and as I told the Jews, 'Where I go you cannot come,' so now I say it to you."
+                            </p>
+                            <p>
+                                Simon Peter said to him, "Master, where are you going?" Jesus answered him, "Where I am going, you cannot follow me now, though you will follow later." Peter said to him, "Master, why can I not follow you now? I will lay down my life for you." Jesus answered, "Will you lay down your life for me? Amen, amen, I say to you, the cock will not crow before you deny me three times."
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1975,28 +1966,16 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Wednesday
-                            <h6 class="modal-title modal-about text-center">Joel 2:12-18</h6>
+                            <h6 class="modal-title modal-about text-center">Isaiah 50:4-9A</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               Even now, says the LORD, return to me with your whole heart, with fasting, and weeping, 
-                               and mourning; Rend your hearts, not your garments, and return to the LORD, your God. For 
-                               gracious and merciful is he, slow to anger, rich in kindness, and relenting in punishment. 
-                               Perhaps he will again relent and leave behind him a blessing, Offerings and libations for 
-                               the LORD, your God.
+                               The Lord GOD has given me a well-trained tongue, That I might know how to speak to the weary a word that will rouse them. Morning after morning he opens my ear that I may hear; And I have not rebelled, have not turned back. I gave my back to those who beat me, my cheeks to those who plucked my beard; My face I did not shield from buffets and spitting.
                             </p>
                             <p>
-                                Blow the trumpet in Zion! proclaim a fast,  call an assembly; Gather the people, notify 
-                                the congregation; Assemble the elders, gather the children and the infants at the breast; 
-                                Let the bridegroom quit his room and the bride her chamber. Between the porch and the altar 
-                                let the priests, the ministers of the LORD, weep, And say, "Spare, O LORD, your people, 
-                                and make not your heritage a reproach, with the nations ruling over them! Why should 
-                                they say among the peoples, 'Where is their God?'"
-                            </p>
-                            <p>
-                                Then the LORD was stirred to concern for his land and took pity on his people.
-                            </p>                           
+                                The Lord GOD is my help, therefore I am not disgraced; I have set my face like flint, knowing that I shall not be put to shame. He is near who upholds my right; if anyone wishes to oppose me, let us appear together. Who disputes my right? Let him confront me. See, the Lord GOD is my help; who will prove me wrong?
+                            </p>                          
                         </div>
                     </div>
                 </div>
@@ -2014,38 +1993,36 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Wednesday
-                            <h6 class="modal-title modal-about text-center">Psalm 51:3-4, 5-6AB, 12-13, 14 AND 17</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 69:8-10, 21-22, 31 AND 33-34</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong><br>
-                                Have mercy on me, O God, in your goodness;<br>
-                                in the greatness of your compassion wipe out my offense.<br>   
-                                Thoroughly wash me from my guilt<br>
-                                and of my sin cleanse me.<br>                         
-                               <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
+                                <strong><i>R. Lord, in your great love, answer me.</i></strong><br>
+                                For your sake I bear insult,<br> 
+                                and shame covers my face.<br> 
+                                I have become an outcast to my brothers,<br> 
+                                a stranger to my mother's sons,<br> 
+                                because zeal for your house consumes me,<br> 
+                                and the insults of those who blaspheme you fall upon me.<br>                        
+                               <strong><i>R. Lord, in your great love, answer me.</i></strong>
                             </p>
                             <p>
-                                For I acknowledge my offense,<br>
-                                and my sin is before me always:<br>
-                                "Against you only have I sinned,<br>
-                                and done what is evil in your sight."<br>
-                                <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
+                                Insult has broken my heart, and I am weak,<br> 
+                                I looked for sympathy, but there was none;<br> 
+                                for consolers, not one could I find.<br> 
+                                Rather they put gall in my food,<br> 
+                                and in my thirst they gave me vinegar to drink.<br>
+                                <strong><i>R. Lord, in your great love, answer me.</i></strong>
 						  </p>
 						  <p>
-						        A clean heart create for me, O God,<br>
-                                and a steadfast spirit renew within me.<br>
-						        Cast me not out from your presence,<br>
-                                and your Holy Spirit take not from me.<br>
-						        <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
-						  </p>
-						  <p>
-						        Give me back the joy of your salvation,<br>
-						        and a willing spirit sustain in me.<br>
-                                O Lord, open my lips,<br>
-                                and my mouth shall proclaim your praise.<br>
-						        <strong><i>R. Be merciful, O Lord, for we have sinned.</i></strong>
+						        I will praise the name of God in song,<br> 
+						        and I will glorify him with thanksgiving:<br> 
+						        "See, you lowly ones, and be glad;<br> 
+						        you who seek God, may your hearts revive!<br> 
+						        For the LORD hears the poor,<br> 
+						        and his own who are in bonds he spurns not."<br>
+						        <strong><i>R. Lord, in your great love, answer me.</i></strong>
 						  </p>
                         </div>
                     </div>
@@ -2100,31 +2077,21 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Wednesday
-                            <h6 class="modal-title modal-about text-center">Mathew 6:1-6, 16-18</h6>
+                            <h6 class="modal-title modal-about text-center">Mathew 26:14-25</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus said to his disciples:<br>
-                                "Take care not to perform righteous deeds in order that people may see them; otherwise, 
-                                you will have no recompense from your heavenly Father. When you give alms, do not blow a 
-                                trumpet before you, as the hypocrites do in the synagogues and in the streets to win the 
-                                praise of others. Amen, I say to you, they have received their reward. But when you give 
-                                alms, do not let your left hand know what your right is doing, so that your almsgiving 
-                                may be secret. And your Father who sees in secret will repay you.
+                                One of the Twelve, who was called Judas Iscariot, went to the chief priests and said, "What are you willing to give me if I hand him over to you?" They paid him thirty pieces of silver, and from that time on he looked for an opportunity to hand him over.
                             </p>
                             <p>
-                                "When you pray, do not be like the hypocrites, who love to stand and pray in the 
-                                synagogues and on street corners so that others may see them. Amen, I say to you, they 
-                                have received their reward. But when you pray, go to your inner room, close the door, 
-                                and pray to your Father in secret. And your Father who sees in secret will repay you.
+                                On the first day of the Feast of Unleavened Bread, the disciples approached Jesus and said, "Where do you want us to prepare for you to eat the Passover?" He said, "Go into the city to a certain man and tell him, 'The teacher says, AMy appointed time draws near; in your house I shall celebrate the Passover with my disciples."'" The disciples then did as Jesus had ordered, and prepared the Passover.
                             </p>
                             <p>
-                                "When you fast, do not look gloomy like the hypocrites. They neglect their appearance, 
-                                so that they may appear to others to be fasting. Amen, I say to you, they have received 
-                                their reward. But when you fast, anoint your head and wash your face, so that you may 
-                                not appear to be fasting, except to your Father who is hidden. And your Father who sees 
-                                what is hidden will repay you."
+                                When it was evening, he reclined at table with the Twelve. And while they were eating, he said, "Amen, I say to you, one of you will betray me." Deeply distressed at this, they began to say to him one after another, "Surely it is not I, Lord?" He said in reply, "He who has dipped his hand into the dish with me is the one who will betray me. The Son of Man indeed goes, as it is written of him, but woe to that man by whom the Son of Man is betrayed. It would be better for that man if he had never been born."
+                            </p>
+                            <p>
+                                Then Judas, his betrayer, said in reply, "Surely it is not I, Rabbi?" He answered, "You have said so."
                             </p>
                         </div>
                     </div>
@@ -2143,23 +2110,18 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Thursday
-                            <h6 class="modal-title modal-about text-center">Deuteronomy 30:15-20</h6>
+                            <h6 class="modal-title modal-about text-center">Isaiah 61:1-3A, 6A, 8B-9</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                "Today I have set before you life and prosperity, death and doom. If you obey the 
-                                commandments of the LORD, your God, which I enjoin on you today, loving him, and walking 
-                                in his ways, and keeping his commandments, statutes and decrees, you will live and grow 
-                                numerous, and the LORD, your God, will bless you in the land you are entering to occupy. 
-                                If, however, you turn away your hearts and will not listen, but are led astray and adore 
-                                and serve other gods, I tell you now that you will certainly perish; you will not have a 
-                                long life on the land that you are crossing the Jordan to enter and occupy. I call 
-                                heaven and earth today to witness against you: I have set before you life and death, the 
-                                blessing and the curse. Choose life, then, that you and your descendants may live, by 
-                                loving the LORD, your God, heeding his voice, and holding fast to him. For that will 
-                                mean life for you, a long life for you to live on the land that the LORD swore he would 
-                                give to your fathers Abraham, Isaac and Jacob." 
+                                The Spirit of the Lord GOD is upon me, because the LORD has anointed me; He has sent me to bring glad tidings to the lowly, to heal the brokenhearted, To proclaim liberty to the captives and release to the prisoners, To announce a year of favor from the LORD and a day of vindication by our God, to comfort all who mourn; To place on those who mourn in Zion a diadem instead of ashes, To give them oil of gladness in place of mourning, a glorious mantle instead of a listless spirit.
+                            </p>
+                            <p>
+                                You yourselves shall be named priests of the LORD, ministers of our God shall you be called.
+                            </p>
+                            <p>
+                                I will give them their recompense faithfully, a lasting covenant I will make with them. Their descendants shall be renowned among the nations, and their offspring among the peoples; All who see them shall acknowledge them as a race the LORD has blessed.
                             </p>
                         </div>
                     </div>
@@ -2178,34 +2140,24 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Thursday
-                            <h6 class="modal-title modal-about text-center">Psalm 1:1-2, 3, 4 AND 6</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 89:21-22, 25 AND 27</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Blessed are they who hope in the Lord.</i></strong><br>
-                                Blessed the man who follows not<br>
-                                the counsel of the wicked<br>
-                                Nor walks in the way of sinners,<br>
-								nor sits in the company of the insolent,<br>
-                                But delights in the law of the LORD<br>
-                                and meditates on his law day and night.<br>
-								<strong><i>R. Blessed are they who hope in the Lord.</i></strong>
+                                <strong><i>R. For ever I will sing the goodness of the Lord.</i></strong><br>
+                                "I have found David, my servant;<br> 
+                                with my holy oil I have anointed him.<br> 
+                                That my hand may always be with him;<br> 
+                                and that my arm may make him strong."<br>
+								<strong><i>R. For ever I will sing the goodness of the Lord.</i></strong>
                             </p>
                             <p>
-                                He is like a tree<br>
-                                planted near running water,<br>
-                                That yields its fruit in due season,<br>
-                                and whose leaves never fade.<br>
-                                Whatever he does, prospers.<br>
-                                <strong><i>R. Blessed are they who hope in the Lord.</i></strong>
-                            </p>
-                            <p>
-                                Not so the wicked, not so;<br>
-                                they are like chaff which the wind drives away.<br>
-                                For the LORD watches over the way of the just,<br>
-                                but the way of the wicked vanishes.<br>
-                                <strong><i>R. Blessed are they who hope in the Lord.</i></strong>
+                                "My faithfulness and my mercy shall be with him;<br>
+                                and through my name shall his horn be exalted.<br> 
+                                He shall say of me, 'You are my father,<br> 
+                                my God, the Rock, my savior!'"<br>
+                                <strong><i>R. For ever I will sing the goodness of the Lord.</i></strong>
                             </p>
                         </div>		
                     </div>
@@ -2225,33 +2177,19 @@ and if a son then also an heir, through God.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">2nd Reading - Thursday
-                            <h6 class="modal-title modal-about text-center">1 John 3: 1 - 3 <h5>OR</h5> 1 Corinthian 1:3-9</h6>
+                            <h6 class="modal-title modal-about text-center">Revelation 1:5-8</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <p><i>No reading
-</p>
-<p>
-<h5>OR</h5>
-</p>
-<p>
-Brothers and sisters:<br>
-Grace to you and peace from God our Father
-and the Lord Jesus Christ.
-</p>
-<p>
-I give thanks to my God always on your account
-for the grace of God bestowed on you in Christ Jesus,
-that in him you were enriched in every way,
-with all discourse and all knowledge,
-as the testimony to Christ was confirmed among you,
-so that you are not lacking in any spiritual gift
-as you wait for the revelation of our Lord Jesus Christ.
-He will keep you firm to the end,
-irreproachable on the day of our Lord Jesus Christ.
-God is faithful,
-and by him you were called to fellowship with his Son, Jesus Christ our Lord.
-</p>
+                            <p>
+                                [Grace to you and peace] from Jesus Christ, who is the faithful witness, the firstborn of the dead and ruler of the kings of the earth. To him who loves us and has freed us from our sins by his Blood, who has made us into a Kingdom, priests for his God and Father, to him be glory and power forever and ever. Amen.                           
+                            </p>
+                            <p>
+                                Behold, he is coming amid the clouds, and every eye will see him, even those who pierced him. All the peoples of the earth will lament him. Yes. Amen.
+                            </p>
+                            <p>
+                                "I am the Alpha and the Omega," says the Lord God, "the one who is and who was and who is to come, the Almighty."
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2269,21 +2207,19 @@ and by him you were called to fellowship with his Son, Jesus Christ our Lord.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Thursday
-                            <h6 class="modal-title modal-about text-center">Luke 9:22-25</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 4:16-21</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus said to his disciples:<br>
-                                "The Son of Man must suffer greatly and be rejected by the elders, the chief priests, 
-                                and the scribes, and be killed and on the third day be raised."
+                                Jesus came to Nazareth, where he had grown up, and went according to his custom into the synagogue on the sabbath day. He stood up to read and was handed a scroll of the prophet Isaiah. He unrolled the scroll and found the passage where it was written:
                             </p>
                             <p>
-                                Then he said to all, "If anyone wishes to come after me, he must deny himself and take 
-                                up his cross daily and follow me. For whoever wishes to save his life will lose it, but 
-                                whoever loses his life for my sake will save it. What profit is there for one to gain 
-                                the whole world yet lose or forfeit himself?"
+                                <i>The Spirit of the Lord is upon me, because he has anointed me to bring glad tidings to the poor. He has sent me to proclaim liberty to captives and recovery of sight to the blind, to let the oppressed go free, and to proclaim a year acceptable to the Lord.</i>
                             </p>           
+                            <p>
+                                Rolling up the scroll, he handed it back to the attendant and sat down, and the eyes of all in the synagogue looked intently at him. He said to them, "Today this Scripture passage is fulfilled in your hearing."
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2301,30 +2237,28 @@ and by him you were called to fellowship with his Son, Jesus Christ our Lord.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Friday
-                            <h6 class="modal-title modal-about text-center">Isaiah 58:1-9A</h6>
+                            <h6 class="modal-title modal-about text-center">Isaiah 52:13—53:12</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               Thus says the Lord GOD:<br>
-                               Cry out full-throated and unsparingly, lift up your voice like a trumpet blast; Tell my 
-                               people their wickedness, and the house of Jacob their sins. They seek me day after day, 
-                               and desire to know my ways, Like a nation that has done what is just and not abandoned 
-                               the law of their God; They ask me to declare what is due them, pleased to gain access to 
-                               God. "Why do we fast, and you do not see it? afflict ourselves, and you take no note of 
-                               it?" Lo, on your fast day you carry out your own pursuits, and drive all your laborers. 
-                               Yes, your fast ends in quarreling and fighting, striking with wicked claw. Would that 
-                               today you might fast so as to make your voice heard on high! Is this the manner of 
-                               fasting I wish, of keeping a day of penance: That a man bow his head like a reed and lie 
-                               in sackcloth and ashes? Do you call this a fast, a day acceptable to the LORD? This, 
-                               rather, is the fasting that I wish: releasing those bound unjustly, untying the thongs of 
-                               the yoke; Setting free the oppressed, breaking every yoke; Sharing your bread with the 
-                               hungry, sheltering the oppressed and the homeless; Clothing the naked when you see them, 
-                               and not turning your back on your own. Then your light shall break forth like the dawn, 
-                               and your wound shall quickly be healed; Your vindication shall go before you, and the 
-                               glory of the LORD shall be your rear guard. Then you shall call, and the LORD will answer, 
-                               you shall cry for help, and he will say: Here I am!
+                               See, my servant shall prosper, he shall be raised high and greatly exalted. Even as many were amazed at himC so marred was his look beyond human semblance and his appearance beyond that of the sons of manC so shall he startle many nations, because of him kings shall stand speechless; for those who have not been told shall see, those who have not heard shall ponder it.
                             </p>                                     
+                            <p>
+                                Who would believe what we have heard? To whom has the arm of the LORD been revealed? He grew up like a sapling before him, like a shoot from the parched earth; there was in him no stately bearing to make us look at him, nor appearance that would attract us to him. He was spurned and avoided by people, a man of suffering, accustomed to infirmity, one of those from whom people hide their faces, spurned, and we held him in no esteem.
+                            </p>
+                            <p>
+                                Yet it was our infirmities that he bore, our sufferings that he endured, while we thought of him as stricken, as one smitten by God and afflicted. But he was pierced for our offenses, crushed for our sins; upon him was the chastisement that makes us whole, by his stripes we were healed. We had all gone astray like sheep, each following his own way; but the LORD laid upon him the guilt of us all.
+                            </p>
+                            <p>
+                                Though he was harshly treated, he submitted and opened not his mouth; like a lamb led to the slaughter or a sheep before the shearers, he was silent and opened not his mouth. Oppressed and condemned, he was taken away, and who would have thought any more of his destiny? When he was cut off from the land of the living, and smitten for the sin of his people, a grave was assigned him among the wicked and a burial place with evildoers, though he had done no wrong nor spoken any falsehood. But the LORD was pleased to crush him in infirmity.
+                            </p>
+                            <p>
+                                If he gives his life as an offering for sin, he shall see his descendants in a long life, and the will of the LORD shall be accomplished through him.
+                            </p>
+                            <p>
+                                Because of his affliction he shall see the light in fullness of days; through his suffering, my servant shall justify many, and their guilt he shall bear. Therefore I will give him his portion among the great, and he shall divide the spoils with the mighty, because he surrendered himself to death and was counted among the wicked; and he shall take away the sins of many, and win pardon for their offenses.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2342,32 +2276,41 @@ and by him you were called to fellowship with his Son, Jesus Christ our Lord.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Friday
-                            <h6 class="modal-title modal-about text-center">Psalm 51:3-4, 5-6AB, 18-19</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 31:2, 6, 12-13, 15-16, 17, 25</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong><br>
-                                Have mercy on me, O God, in your goodness;<br>
-                                in the greatness of your compassion wipe out my offense.<br>
-                                Thoroughly wash me from my guilt<br>
-                                and of my sin cleanse me.<br>
-								<strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong>
+                                <strong><i>R. Father, into your hands I commend my spirit.</i></strong><br>
+                                In you, O LORD, I take refuge;<br> 
+                                let me never be put to shame.<br> 
+                                In your justice rescue me.<br> 
+                                Into your hands I commend my spirit;<br> 
+                                you will redeem me, O LORD, O faithful God.<br>
+								<strong><i>R. Father, into your hands I commend my spirit.</i></strong>
                             </p>
                             <p>
-                                For I acknowledge my offense,<br>
-                                and my sin is before me always:<br>
-                                "Against you only have I sinned,<br>
-                                and done what is evil in your sight."<br>
-                               <strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong>
+                                For all my foes I am an object of reproach,<br> 
+                                a laughingstock to my neighbors, and a dread to my friends;<br> 
+                                they who see me abroad flee from me.<br> 
+                                I am forgotten like the unremembered dead;<br> 
+                                I am like a dish that is broken.<br>
+                               <strong><i>R. Father, into your hands I commend my spirit.</i></strong>
                             </p> 
                             <p>
-                                For you are not pleased with sacrifices;<br>
-                                should I offer a burnt offering, you would not accept it.<br>
-                                My sacrifice, O God, is a contrite spirit;<br>
-                                a heart contrite and humbled, O God, you will not spurn.<br>
-                                <strong><i>R. A heart contrite and humbled, O God, you will not spurn.</i></strong>
+                                But my trust is in you, O LORD;<br> 
+                                I say, "You are my God.<br> 
+                                In your hands is my destiny; rescue me<br> 
+                                from the clutches of my enemies and my persecutors."<br>
+                                <strong><i>R. Father, into your hands I commend my spirit.</i></strong>
                             </p>                           
+                            <p>
+                                Let your face shine upon your servant;<br> 
+                                save me in your kindness.<br> 
+                                Take courage and be stouthearted,<br> 
+                                all you who hope in the LORD.<br>
+                                <strong><i>R. Father, into your hands I commend my spirit.</i></strong>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2385,28 +2328,17 @@ and by him you were called to fellowship with his Son, Jesus Christ our Lord.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">2nd Reading - Friday
-                             <h6 class="modal-title modal-about text-center">Romans 5: 5 - 11 / Romans 6: 3 - 9</h6>
+                             <h6 class="modal-title modal-about text-center">Hebrew 4:14-16; 5:7-9</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <p>Brothers and sisters:<br>
-Hope does not disappoint, because the love of God has been poured out into our hearts through the Holy Spirit that has been given to us. For Christ, while we were still helpless, 
-died at the appointed time for the ungodly. Indeed, only with difficulty does one die for a just person, though perhaps for a good person one might even find courage to die. 
-But God proves his love for us in that while we were still sinners Christ died for us. How much more then, since we are now justified by his Blood, will we be saved through him 
-from the wrath. Indeed, if, while we were enemies, we were reconciled to God through the death of his Son, how much more, once reconciled, will we be saved by his life. Not only that, 
-but we also boast of God through our Lord Jesus Christ, through whom we have now received reconciliation.
-</p>
-<p><h1>OR</h1></p>
-<p>
-Brothers and sisters:<br>
-Are you unaware that we who were baptized into Christ Jesus were baptized into his death? We were indeed buried with him through baptism into death, so that, just as Christ was raised 
-from the dead by the glory of the Father, we too might live in newness of life.
-</p>
-<p>
-For if we have grown into union with him through a death like his, we shall also be united with him in the resurrection. We know that our old self was crucified with him, so that our sinful body 
-might be done away with, that we might no longer be in slavery to sin. For a dead person has been absolved from sin. If, then, we have died with Christ, we believe that we shall also live with him. 
-We know that Christ, raised from the dead, dies no more; death no longer has power over him.
-</p>
+                            <p>
+                                Brothers and sisters:<br>
+                                Since we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast to our confession. For we do not have a high priest who is unable to sympathize with our weaknesses, but one who has similarly been tested in every way, yet without sin. So let us confidently approach the throne of grace to receive mercy and to find grace for timely help.
+                            </p>
+                            <p>
+                                In the days when Christ was in the flesh, he offered prayers and supplications with loud cries and tears to the one who was able to save him from death, and he was heard because of his reverence. Son though he was, he learned obedience from what he suffered; and when he was made perfect, he became the source of eternal salvation for all who obey him.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2424,16 +2356,59 @@ We know that Christ, raised from the dead, dies no more; death no longer has pow
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Friday
-                            <h6 class="modal-title modal-about text-center">Mathew 9:14-15</h6>
+                            <h6 class="modal-title modal-about text-center">John 18:1-19:42</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                               The disciples of John approached Jesus and said, "Why do we and the Pharisees fast much, 
-                               but your disciples do not fast?" Jesus answered them, "Can the wedding guests mourn as 
-                               long as the bridegroom is with them? The days will come when the bridegroom is taken away 
-                               from them, and then they will fast."
-                         </p>
+                               Jesus went out with his disciples across the Kidron valley to where there was a garden, into which he and his disciples entered. Judas his betrayer also knew the place, because Jesus had often met there with his disciples. So Judas got a band of soldiers and guards from the chief priests and the Pharisees and went there with lanterns, torches, and weapons. Jesus, knowing everything that was going to happen to him, went out and said to them, "Whom are you looking for?" They answered him, "Jesus the Nazorean." He said to them, "I AM." Judas his betrayer was also with them. When he said to them, "I AM, " they turned away and fell to the ground. So he again asked them, "Whom are you looking for?" They said, "Jesus the Nazorean." Jesus answered, "I told you that I AM. So if you are looking for me, let these men go."
+                            </p>
+                            <p>
+                                This was to fulfill what he had said, "I have not lost any of those you gave me." Then Simon Peter, who had a sword, drew it, struck the high priest's slave, and cut off his right ear. The slave's name was Malchus. Jesus said to Peter, "Put your sword into its scabbard. Shall I not drink the cup that the Father gave me?"
+                            </p>
+                            <p>
+                                So the band of soldiers, the tribune, and the Jewish guards seized Jesus, bound him, and brought him to Annas first. He was the father-in-law of Caiaphas, who was high priest that year. It was Caiaphas who had counseled the Jews that it was better that one man should die rather than the people.
+                            </p>
+                            <p>
+                                Simon Peter and another disciple followed Jesus. Now the other disciple was known to the high priest, and he entered the courtyard of the high priest with Jesus. But Peter stood at the gate outside. So the other disciple, the acquaintance of the high priest, went out and spoke to the gatekeeper and brought Peter in. Then the maid who was the gatekeeper said to Peter, "You are not one of this man's disciples, are you?" He said, "I am not." Now the slaves and the guards were standing around a charcoal fire that they had made, because it was cold, and were warming themselves. Peter was also standing there keeping warm.
+                            </p>
+                            <p>
+                                The high priest questioned Jesus about his disciples and about his doctrine. Jesus answered him, "I have spoken publicly to the world. I have always taught in a synagogue or in the temple area where all the Jews gather, and in secret I have said nothing. Why ask me? Ask those who heard me what I said to them. They know what I said." When he had said this, one of the temple guards standing there struck Jesus and said, "Is this the way you answer the high priest?" Jesus answered him, "If I have spoken wrongly, testify to the wrong; but if I have spoken rightly, why do you strike me?" Then Annas sent him bound to Caiaphas the high priest.
+                            </p>
+                            <p>
+                                Now Simon Peter was standing there keeping warm. And they said to him, "You are not one of his disciples, are you?" He denied it and said, "I am not." One of the slaves of the high priest, a relative of the one whose ear Peter had cut off, said, "Didn't I see you in the garden with him?" Again Peter denied it. And immediately the cock crowed.
+                            </p>
+                            <p>
+                                Then they brought Jesus from Caiaphas to the praetorium. It was morning. And they themselves did not enter the praetorium, in order not to be defiled so that they could eat the Passover. So Pilate came out to them and said, "What charge do you bring against this man?" They answered and said to him, "If he were not a criminal, we would not have handed him over to you." At this, Pilate said to them, "Take him yourselves, and judge him according to your law." The Jews answered him, "We do not have the right to execute anyone, " in order that the word of Jesus might be fulfilled that he said indicating the kind of death he would die. So Pilate went back into the praetorium and summoned Jesus and said to him, "Are you the King of the Jews?" Jesus answered, "Do you say this on your own or have others told you about me?" Pilate answered, "I am not a Jew, am I? Your own nation and the chief priests handed you over to me. What have you done?" Jesus answered, "My kingdom does not belong to this world. If my kingdom did belong to this world, my attendants would be fighting to keep me from being handed over to the Jews. But as it is, my kingdom is not here." So Pilate said to him, "Then you are a king?" Jesus answered, "You say I am a king. For this I was born and for this I came into the world, to testify to the truth. Everyone who belongs to the truth listens to my voice." Pilate said to him, "What is truth?"
+                            </p>
+                            <p>
+                                When he had said this, he again went out to the Jews and said to them, "I find no guilt in him. But you have a custom that I release one prisoner to you at Passover. Do you want me to release to you the King of the Jews?" They cried out again, "Not this one but Barabbas!" Now Barabbas was a revolutionary.
+                            </p>
+                            <p>
+                                Then Pilate took Jesus and had him scourged. And the soldiers wove a crown out of thorns and placed it on his head, and clothed him in a purple cloak, and they came to him and said, "Hail, King of the Jews!" And they struck him repeatedly. Once more Pilate went out and said to them, "Look, I am bringing him out to you, so that you may know that I find no guilt in him." So Jesus came out, wearing the crown of thorns and the purple cloak. And he said to them, "Behold, the man!" When the chief priests and the guards saw him they cried out, "Crucify him, crucify him!" Pilate said to them, "Take him yourselves and crucify him. I find no guilt in him." The Jews answered, "We have a law, and according to that law he ought to die, because he made himself the Son of God." Now when Pilate heard this statement, he became even more afraid, and went back into the praetorium and said to Jesus, "Where are you from?" Jesus did not answer him. So Pilate said to him, "Do you not speak to me? Do you not know that I have power to release you and I have power to crucify you?" Jesus answered him, "You would have no power over me if it had not been given to you from above. For this reason the one who handed me over to you has the greater sin." Consequently, Pilate tried to release him; but the Jews cried out, "If you release him, you are not a Friend of Caesar. Everyone who makes himself a king opposes Caesar."
+                            </p>
+                            <p>
+                                When Pilate heard these words he brought Jesus out and seated him on the judge's bench in the place called Stone Pavement, in Hebrew, Gabbatha. It was preparation day for Passover, and it was about noon. And he said to the Jews, "Behold, your king!" They cried out, "Take him away, take him away! Crucify him!" Pilate said to them, "Shall I crucify your king?" The chief priests answered, "We have no king but Caesar." Then he handed him over to them to be crucified.
+                            </p>
+                            <p>
+                                So they took Jesus, and, carrying the cross himself, he went out to what is called the Place of the Skull, in Hebrew, Golgotha. There they crucified him, and with him two others, one on either side, with Jesus in the middle. Pilate also had an inscription written and put on the cross. It read, "Jesus the Nazorean, the King of the Jews." Now many of the Jews read this inscription, because the place where Jesus was crucified was near the city; and it was written in Hebrew, Latin, and Greek. So the chief priests of the Jews said to Pilate, "Do not write 'The King of the Jews,' but that he said, 'I am the King of the Jews'." Pilate answered, "What I have written, I have written."
+                            </p>
+                            <p>
+                                When the soldiers had crucified Jesus, they took his clothes and divided them into four shares, a share for each soldier. They also took his tunic, but the tunic was seamless, woven in one piece from the top down. So they said to one another, "Let's not tear it, but cast lots for it to see whose it will be, " in order that the passage of Scripture might be fulfilled that says: They divided my garments among them, and for my vesture they cast lots. This is what the soldiers did. Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother and the disciple there whom he loved he said to his mother, "Woman, behold, your son." Then he said to the disciple, "Behold, your mother." And from that hour the disciple took her into his home.
+                            </p>
+                            <p>
+                                After this, aware that everything was now finished, in order that the Scripture might be fulfilled, Jesus said, "I thirst." There was a vessel filled with common wine. So they put a sponge soaked in wine on a sprig of hyssop and put it up to his mouth. When Jesus had taken the wine, he said, "It is finished." And bowing his head, he handed over the spirit.
+                            </p>
+                            <p>
+                                <strong><i>Here all kneel and pause for a short time.</i></strong>
+                            </p>
+                            <p>
+                                Now since it was preparation day, in order that the bodies might not remain on the cross on the sabbath, for the sabbath day of that week was a solemn one, the Jews asked Pilate that their legs be broken and that they be taken down. So the soldiers came and broke the legs of the first and then of the other one who was crucified with Jesus. But when they came to Jesus and saw that he was already dead, they did not break his legs, but one soldier thrust his lance into his side, and immediately blood and water flowed out. An eyewitness has testified, and his testimony is true; he knows that he is speaking the truth, so that you also may come to believe. For this happened so that the Scripture passage might be fulfilled: Not a bone of it will be broken. And again another passage says: They will look upon him whom they have pierced.
+                            </p>
+                            <p>
+                                After this, Joseph of Arimathea, secretly a disciple of Jesus for fear of the Jews, asked Pilate if he could remove the body of Jesus. And Pilate permitted it. So he came and took his body. Nicodemus, the one who had first come to him at night, also came bringing a mixture of myrrh and aloes weighing about one hundred pounds. They took the body of Jesus and bound it with burial cloths along with the spices, according to the Jewish burial custom. Now in the place where he had been crucified there was a garden, and in the garden a new tomb, in which no one had yet been buried. So they laid Jesus there because of the Jewish preparation day; for the tomb was close by.
+                            </p>
+                         
                     </div>
                 </div>
             </div>
@@ -2451,25 +2426,37 @@ We know that Christ, raised from the dead, dies no more; death no longer has pow
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Saturday
-                            <h6 class="modal-title modal-about text-center">Isaiah 58:9B-14</h6>
+                            <h6 class="modal-title modal-about text-center">Genesis 1:1—2:2 / Genesis 1:1, 26-31A</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Thus says the LORD:<br>
-                                If you remove from your midst oppression, false accusation and malicious speech; If you 
-                                bestow your bread on the hungry and satisfy the afflicted; Then light shall rise for you 
-                                in the darkness, and the gloom shall become for you like midday; Then the LORD will guide 
-                                you always and give you plenty even on the parched land. He will renew your strength, and 
-                                you shall be like a watered garden, like a spring whose water never fails. The ancient 
-                                ruins shall be rebuilt for your sake, and the foundations from ages past you shall raise 
-                                up; "Repairer of the breach," they shall call you, "Restorer of ruined homesteads." If 
-                                you hold back your foot on the sabbath from following your own pursuits on my holy day; 
-                                <strong>If you call the sabbath a delight, and the LORD's holy day honorable; If you honor it by 
-                                not following your ways, seeking your own interests, or speaking with malice. Then you 
-                                shall delight in the LORD, and I will make you ride on the heights of the earth; I will 
-                                nourish you with the heritage of Jacob, your father, for the mouth of the LORD has spoken.</strong>
+                                In the beginning, when God created the heavens and the earth, the earth was a formless wasteland, and darkness covered the abyss, while a mighty wind swept over the waters.
                             </p>                            
+                            <p>
+                                Then God said, "Let there be light," and there was light. God saw how good the light was. God then separated the light from the darkness. God called the light "day," and the darkness he called "night." Thus evening came, and morning followed - the first day.
+                            </p>
+                            <p>
+                                Then God said, "Let there be a dome in the middle of the waters, to separate one body of water from the other." And so it happened: God made the dome, and it separated the water above the dome from the water below it. God called the dome "the sky." Evening came, and morning followed - the second day.
+                            </p>
+                            <p>
+                                Then God said, "Let the water under the sky be gathered into a single basin, so that the dry land may appear." And so it happened: the water under the sky was gathered into its basin, and the dry land appeared. God called the dry land "the earth, " and the basin of the water he called "the sea." God saw how good it was. Then God said, "Let the earth bring forth vegetation: every kind of plant that bears seed and every kind of fruit tree on earth that bears fruit with its seed in it." And so it happened: the earth brought forth every kind of plant that bears seed and every kind of fruit tree on earth that bears fruit with its seed in it. God saw how good it was. Evening came, and morning followed - the third day.
+                            </p>
+                            <p>
+                                Then God said: "Let there be lights in the dome of the sky, to separate day from night. Let them mark the fixed times, the days and the years, and serve as luminaries in the dome of the sky, to shed light upon the earth." And so it happened: God made the two great lights, the greater one to govern the day, and the lesser one to govern the night; and he made the stars. God set them in the dome of the sky, to shed light upon the earth, to govern the day and the night, and to separate the light from the darkness. God saw how good it was. Evening came, and morning followed - the fourth day.
+                            </p>
+                            <p>
+                                Then God said, "Let the water teem with an abundance of living creatures, and on the earth let birds fly beneath the dome of the sky." And so it happened: God created the great sea monsters and all kinds of swimming creatures with which the water teems, and all kinds of winged birds. God saw how good it was, and God blessed them, saying, "Be fertile, multiply, and fill the water of the seas; and let the birds multiply on the earth." Evening came, and morning followed - the fifth day.
+                            </p>
+                            <p>
+                                Then God said, "Let the earth bring forth all kinds of living creatures: cattle, creeping things, and wild animals of all kinds." And so it happened: God made all kinds of wild animals, all kinds of cattle, and all kinds of creeping things of the earth. God saw how good it was. Then God said: "Let us make man in our image, after our likeness. Let them have dominion over the fish of the sea, the birds of the air, and the cattle, and over all the wild animals and all the creatures that crawl on the ground." God created man in his image; in the image of God he created him; male and female he created them. God blessed them, saying: "Be fertile and multiply; fill the earth and subdue it. Have dominion over the fish of the sea, the birds of the air, and all the living things that move on the earth." God also said: "See, I give you every seed-bearing plant all over the earth and every tree that has seed-bearing fruit on it to be your food; and to all the animals of the land, all the birds of the air, and all the living creatures that crawl on the ground, I give all the green plants for food." And so it happened. God looked at everything he had made, and he found it very good. Evening came, and morning followed—the sixth day. Thus the heavens and the earth and all their array were completed. Since on the seventh day God was finished with the work he had been doing, he rested on the seventh day from all the work he had undertaken.
+                            </p>
+                            <p>
+                                <h3 class="text-center">OR</h3>
+                            </p>
+                            <p>
+                                In the beginning, when God created the heavens and the earth, God said: "Let us make man in our image, after our likeness. Let them have dominion over the fish of the sea, the birds of the air, and the cattle, and over all the wild animals and all the creatures that crawl on the ground." God created man in his image; in the image of God he created him; male and female he created them. God blessed them, saying: "Be fertile and multiply; fill the earth and subdue it. Have dominion over the fish of the sea, the birds of the air, and all the living things that move on the earth." God also said: "See, I give you every seed-bearing plant all over the earth and every tree that has seed-bearing fruit on it to be your food; and to all the animals of the land, all the birds of the air, and all the living creatures that crawl on the ground, I give all the green plants for food." And so it happened. God looked at everything he had made, and found it very good.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2488,32 +2475,78 @@ We know that Christ, raised from the dead, dies no more; death no longer has pow
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
-                            <h6 class="modal-title modal-about text-center">Psalm 86:1-2, 3-4, 5-6</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 104:1-2, 5-6, 10, 12, 13-14, 24, 35 / Psalm 33:4-5, 6-7, 12-13, 20 AND 22</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong><br>
-                                Incline your ear, O LORD; answer me,<br>
-                                for I am afflicted and poor.<br>
-                                Keep my life, for I am devoted to you;<br>
-                                save your servant who trusts in you.<br>
-                                You are my God.<br>
-							    <strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong>
+                                <strong><i>R. Lord, send out your Spirit, and renew the face of the earth.</i></strong><br>
+                                Bless the LORD, O my soul!<br> 
+                                O LORD, my God, you are great indeed!<br> 
+                                You are clothed with majesty and glory,<br> 
+                                robed in light as with a cloak.<br>
+							    <strong><i>R. Lord, send out your Spirit, and renew the face of the earth.</i></strong>
                             </p>
                             <p>
-                                Have mercy on me, O Lord,<br>
-                                for to you I call all the day.<br>
-                                Gladden the soul of your servant,<br>
-                                for to you, O Lord, I lift up my soul.<br>
-								<strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong>
+                                You fixed the earth upon its foundation,<br>
+                                not to be moved forever;<br> 
+                                with the ocean, as with a garment, you covered it;<br> 
+                                above the mountains the waters stood.<br>
+								<strong><i>R. Lord, send out your Spirit, and renew the face of the earth.</i></strong>
                             </p>
                             <p>
-                                For you, O Lord, are good and forgiving,<br>
-                                abounding in kindness to all who call upon you.<br>
-                                Hearken, O LORD, to my prayer<br>
-                                and attend to the sound of my pleading.<br>
-                                <strong><i>R. Teach me your way, O Lord, that I may walk in your truth.</i></strong>
+                                You send forth springs into the watercourses<br> 
+                                that wind among the mountains.<br> 
+                                Beside them the birds of heaven dwell;<br> 
+                                from among the branches they send forth their song.<br>
+                                <strong><i>R. Lord, send out your Spirit, and renew the face of the earth.</i></strong>
+                            </p>
+                            <p>
+                                You water the mountains from your palace;<br> 
+                                the earth is replete with the fruit of your works.<br> 
+                                You raise grass for the cattle,<br> 
+                                and vegetation for man's use,<br> 
+                                Producing bread from the earth.<br>
+                                <strong><i>R. Lord, send out your Spirit, and renew the face of the earth.</i></strong>
+                            </p>
+                            <p>
+                                How manifold are your works, O LORD!<br> 
+                                In wisdom you have wrought them all-<br> 
+                                the earth is full of your creatures.<br> 
+                                Bless the LORD, O my soul! Alleluia.<br>
+                                <strong><i>R. Lord, send out your Spirit, and renew the face of the earth.</i></strong>
+                            </p>
+                            <p>
+                                <h3 class="text-center">OR</h3>
+                            </p>
+                            <p>
+                                <strong><i>R. The earth is full of the goodness of the Lord.</i></strong><br>
+                                Upright is the word of the LORD,<br> 
+                                and all his works are trustworthy.<br> 
+                                He loves justice and right;<br> 
+                                of the kindness of the LORD the earth is full.<br>
+                                <strong><i>R. The earth is full of the goodness of the Lord.</i></strong>
+                            </p>
+                            <p>
+                                By the word of the LORD the heavens were made;<br> 
+                                by the breath of his mouth all their host.<br> 
+                                He gathers the waters of the sea as in a flask;<br> 
+                                in cellars he confines the deep.<br>
+                                <strong><i>R. The earth is full of the goodness of the Lord.</i></strong>
+                            </p>
+                            <p>
+                                Blessed the nation whose God is the LORD,<br> 
+                                the people he has chosen for his own inheritance.<br> 
+                                From heaven the LORD looks down;<br> 
+                                he sees all mankind.<br>
+                                <strong><i>R. The earth is full of the goodness of the Lord.</i></strong>
+                            </p>
+                            <p>
+                                Our soul waits for the LORD,<br> 
+                                who is our help and our shield.<br> 
+                                May your kindness, O LORD, be upon us<br> 
+                                who have put our hope in you.<br>
+                                <strong><i>R. The earth is full of the goodness of the Lord.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -2532,27 +2565,555 @@ We know that Christ, raised from the dead, dies no more; death no longer has pow
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">2nd Reading - Saturday</h4>
-							<h6 class="modal-title modal-about text-center">Ephesians 1:3-6, 11-12</h6>
+							<h6 class="modal-title modal-about text-center">Genesis 22:1-18 / Genesis 22:1-2, 9A, 10-13, 15-18</h6>
                         </div>
                         <div class="modal-body modal-about">
-                            <p>Brothers and sisters:<br>
-							Blessed be the God and Father of our Lord Jesus Christ,
-who has blessed us in Christ
-with every spiritual blessing in the heavens,
-as he chose us in him, before the foundation of the world,
-to be holy and without blemish before him. 
-In love he destined us for adoption to himself through Jesus Christ,
-in accord with the favor of his will,
-for the praise of the glory of his grace
-that he granted us in the beloved.
-</p>
-<p>
-In him we were also chosen,
-destined in accord with the purpose of the One
-who accomplishes all things according to the intention of his will,
-so that we might exist for the praise of his glory,
-we who first hoped in Christ.
+                            <p>
+                                God put Abraham to the test. He called to him, "Abraham!" "Here I am, " he replied. Then God said: "Take your son Isaac, your only one, whom you love, and go to the land of Moriah. There you shall offer him up as a holocaust on a height that I will point out to you." Early the next morning Abraham saddled his donkey, took with him his son Isaac and two of his servants as well, and with the wood that he had cut for the holocaust, set out for the place of which God had told him.
+                            </p>
+                            <p>
+                                On the third day Abraham got sight of the place from afar. Then he said to his servants: "Both of you stay here with the donkey, while the boy and I go on over yonder. We will worship and then come back to you." Thereupon Abraham took the wood for the holocaust and laid it on his son Isaac's shoulders, while he himself carried the fire and the knife. As the two walked on together, Isaac spoke to his father Abraham: "Father!" Isaac said. "Yes, son, " he replied. Isaac continued, "Here are the fire and the wood, but where is the sheep for the holocaust?" "Son," Abraham answered, "God himself will provide the sheep for the holocaust." Then the two continued going forward.
 							</p>
+							<p>
+							    When they came to the place of which God had told him, Abraham built an altar there and arranged the wood on it. Next he tied up his son Isaac, and put him on top of the wood on the altar. Then he reached out and took the knife to slaughter his son. But the LORD's messenger called to him from heaven, "Abraham, Abraham!" "Here I am!" he answered. "Do not lay your hand on the boy," said the messenger. "Do not do the least thing to him. I know now how devoted you are to God, since you did not withhold from me your own beloved son." As Abraham looked about, he spied a ram caught by its horns in the thicket. So he went and took the ram and offered it up as a holocaust in place of his son. Abraham named the site Yahweh-yireh; hence people now say, AOn the mountain the LORD will see."
+							</p>
+							<p>
+							    Again the LORD's messenger called to Abraham from heaven and said: "I swear by myself, declares the LORD, that because you acted as you did in not withholding from me your beloved son, I will bless you abundantly and make your descendants as countless as the stars of the sky and the sands of the seashore; your descendants shall take possession of the gates of their enemies, and in your descendants all the nations of the earth shall find blessingC all this because you obeyed my command."
+							</p>
+							<p>
+							    <h3>OR</h3>
+							</p>
+							<p>
+							    God put Abraham to the test. He called to him, "Abraham!" "Here I am, " he replied. Then God said: "Take your son Isaac, your only one, whom you love, and go to the land of Moriah. There you shall offer him up as a holocaust on a height that I will point out to you."
+							</p>
+							<p>
+							    When they came to the place of which God had told him, Abraham built an altar there and arranged the wood on it. Then he reached out and took the knife to slaughter his son. But the LORD's messenger called to him from heaven, "Abraham, Abraham!" "Here I am, " he answered. "Do not lay your hand on the boy, " said the messenger. "Do not do the least thing to him. I know now how devoted you are to God, since you did not withhold from me your own beloved son." As Abraham looked about, he spied a ram caught by its horns in the thicket. So he went and took the ram and offered it up as a holocaust in place of his son.
+							</p>
+							<p>
+							    Again the LORD's messenger called to Abraham from heaven and said: "I swear by myself, declares the LORD, that because you acted as you did in not withholding from me your beloved son, I will bless you abundantly and make your descendants as countless as the stars of the sky and the sands of the seashore; your descendants shall take possession of the gates of their enemies, and in your descendants all the nations of the earth shall find blessingC all this because you obeyed my command."
+							</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_res_psalm1" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
+                            <h6 class="modal-title modal-about text-center">Psalm 16:5, 8, 9-10, 11</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. You are my inheritance, O Lord.</i></strong><br>
+                                O LORD, my allotted portion and my cup,<br> 
+                                you it is who hold fast my lot.<br> 
+                                I set the LORD ever before me;<br> 
+                                with him at my right hand I shall not be disturbed.<br>
+							    <strong><i>R. You are my inheritance, O Lord.</i></strong>
+                            </p>
+                            <p>
+                                Therefore my heart is glad and my soul rejoices,<br> 
+                                my body, too, abides in confidence;<br> 
+                                because you will not abandon my soul to the netherworld,<br> 
+                                nor will you suffer your faithful one to undergo corruption.<br>
+								<strong><i>R. You are my inheritance, O Lord.</i></strong>
+                            </p>
+                            <p>
+                                You will show me the path to life,<br> 
+                                fullness of joys in your presence,<br> 
+                                the delights at your right hand forever.<br>
+                                <strong><i>R. You are my inheritance, O Lord.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_3rd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">3rd Reading - Saturday</h4>
+							<h6 class="modal-title modal-about text-center">Exodus 14:15-15:1</h6>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                The LORD said to Moses, "Why are you crying out to me? Tell the Israelites to go forward. And you, lift up your staff and, with hand outstretched over the sea, split the sea in two, that the Israelites may pass through it on dry land. But I will make the Egyptians so obstinate that they will go in after them. Then I will receive glory through Pharaoh and all his army, his chariots and charioteers. The Egyptians shall know that I am the LORD, when I receive glory through Pharaoh and his chariots and charioteers."
+                            </p>
+                            <p>
+                                The angel of God, who had been leading Israel's camp, now moved and went around behind them. The column of cloud also, leaving the front, took up its place behind them, so that it came between the camp of the Egyptians and that of Israel. But the cloud now became dark, and thus the night passed without the rival camps coming any closer together all night long. Then Moses stretched out his hand over the sea, and the LORD swept the sea with a strong east wind throughout the night and so turned it into dry land. When the water was thus divided, the Israelites marched into the midst of the sea on dry land, with the water like a wall to their right and to their left.
+							</p>
+							<p>
+							    The Egyptians followed in pursuit; all Pharaoh's horses and chariots and charioteers went after them right into the midst of the sea. In the night watch just before dawn the LORD cast through the column of the fiery cloud upon the Egyptian force a glance that threw it into a panic; and he so clogged their chariot wheels that they could hardly drive. With that the Egyptians sounded the retreat before Israel, because the LORD was fighting for them against the Egyptians.
+							</p>
+							<p>
+							    Then the LORD told Moses, AStretch out your hand over the sea, that the water may flow back upon the Egyptians, upon their chariots and their charioteers." So Moses stretched out his hand over the sea, and at dawn the sea flowed back to its normal depth. The Egyptians were fleeing head on toward the sea, when the LORD hurled them into its midst. As the water flowed back, it covered the chariots and the charioteers of Pharaoh's whole army which had followed the Israelites into the sea. Not a single one of them escaped. But the Israelites had marched on dry land through the midst of the sea, with the water like a wall to their right and to their left. Thus the LORD saved Israel on that day from the power of the Egyptians. When Israel saw the Egyptians lying dead on the seashore and beheld the great power that the LORD had shown against the Egyptians, they feared the LORD and believed in him and in his servant Moses.
+							</p>
+							<p>
+							    Then Moses and the Israelites sang this song to the LORD: I will sing to the LORD, for he is gloriously triumphant; horse and chariot he has cast into the sea.
+							</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_res_psalm2" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
+                            <h6 class="modal-title modal-about text-center">Exodus 15:1-2, 3-4, 5-6, 17-18</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. Let us sing to the Lord; he has covered himself in glory.</i></strong><br>
+                                I will sing to the LORD, for he is gloriously triumphant;<br> 
+                                horse and chariot he has cast into the sea.<br> 
+                                My strength and my courage is the LORD,<br> 
+                                and he has been my savior.<br> 
+                                He is my God, I praise him;<br> 
+                                the God of my father, I extol him.<br>
+							    <strong><i>R. Let us sing to the Lord; he has covered himself in glory.</i></strong>
+                            </p>
+                            <p>
+                                The LORD is a warrior,<br> 
+                                LORD is his name!<br> 
+                                Pharaoh's chariots and army he hurled into the sea;<br> 
+                                the elite of his officers were submerged in the Red Sea.<br>
+								<strong><i>R. Let us sing to the Lord; he has covered himself in glory.</i></strong>
+                            </p>
+                            <p>
+                                The flood waters covered them,<br> 
+                                they sank into the depths like a stone.<br> 
+                                Your right hand, O LORD, magnificent in power,<br> 
+                                your right hand, O LORD, has shattered the enemy.<br>
+                                <strong><i>R. Let us sing to the Lord; he has covered himself in glory.</i></strong>
+                            </p>
+                            <p>
+                                You brought in the people you redeemed<br> 
+                                and planted them on the mountain of your inheritance<br> 
+                                the place where you made your seat, O LORD,<br> 
+                                the sanctuary, LORD, which your hands established.<br> 
+                                The LORD shall reign forever and ever.<br>
+                                <strong><i>R. Let us sing to the Lord; he has covered himself in glory.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_4th_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">4th Reading - Saturday</h4>
+							<h6 class="modal-title modal-about text-center">Isaiah 54:5-14</h6>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                The One who has become your husband is your Maker; his name is the LORD of hosts; your redeemer is the Holy One of Israel, called God of all the earth. The LORD calls you back, like a wife forsaken and grieved in spirit, a wife married in youth and then cast off, says your God. For a brief moment I abandoned you, but with great tenderness I will take you back. In an outburst of wrath, for a moment I hid my face from you; but with enduring love I take pity on you, says the LORD, your redeemer. This is for me like the days of Noah, when I swore that the waters of Noah should never again deluge the earth; so I have sworn not to be angry with you, or to rebuke you. Though the mountains leave their place and the hills be shaken, my love shall never leave you nor my covenant of peace be shaken, says the LORD, who has mercy on you. O afflicted one, storm-battered and unconsoled, I lay your pavements in carnelians, and your foundations in sapphires; I will make your battlements of rubies, your gates of carbuncles, and all your walls of precious stones. All your children shall be taught by the LORD, and great shall be the peace of your children. In justice shall you be established, far from the fear of oppression, where destruction cannot come near you.
+							</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_res_psalm3" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
+                            <h6 class="modal-title modal-about text-center">Psalm 30:2, 4, 5-6, 11-12, 13</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. I will praise you, Lord, for you have rescued me.</i></strong><br>
+                                I will extol you, O LORD, for you drew me clear<br> 
+                                and did not let my enemies rejoice over me.<br> 
+                                O LORD, you brought me up from the netherworld;<br> 
+                                you preserved me from among those going down into the pit.<br>
+							    <strong><i>R. I will praise you, Lord, for you have rescued me.</i></strong>
+                            </p>
+                            <p>
+                                Sing praise to the LORD, you his faithful ones,<br> 
+                                and give thanks to his holy name.<br> 
+                                For his anger lasts but a moment;<br> 
+                                a lifetime, his good will.<br> 
+                                At nightfall, weeping enters in,<br> 
+                                but with the dawn, rejoicing.<br>
+								<strong><i>R. I will praise you, Lord, for you have rescued me.</i></strong>
+                            </p>
+                            <p>
+                                Hear, O LORD, and have pity on me;<br> 
+                                O LORD, be my helper.<br> 
+                                You changed my mourning into dancing;<br> 
+                                O LORD, my God, forever will I give you thanks.<br>
+                                <strong><i>R. I will praise you, Lord, for you have rescued me.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_5th_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">5th Reading - Saturday</h4>
+							<h6 class="modal-title modal-about text-center">Isaiah 55:1-11</h6>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Thus says the LORD:<br> 
+                                All you who are thirsty, come to the water! You who have no money, come, receive grain and eat; come, without paying and without cost, drink wine and milk! Why spend your money for what is not bread, your wages for what fails to satisfy? Heed me, and you shall eat well, you shall delight in rich fare. Come to me heedfully, listen, that you may have life. I will renew with you the everlasting covenant, the benefits assured to David. As I made him a witness to the peoples, a leader and commander of nations, so shall you summon a nation you knew not, and nations that knew you not shall run to you, because of the LORD, your God, the Holy One of Israel, who has glorified you.
+							</p>
+							<p>
+							    Seek the LORD while he may be found, call him while he is near. Let the scoundrel forsake his way, and the wicked man his thoughts; let him turn to the LORD for mercy; to our God, who is generous in forgiving. For my thoughts are not your thoughts, nor are your ways my ways, says the LORD. As high as the heavens are above the earth, so high are my ways above your ways and my thoughts above your thoughts.
+							</p>
+							<p>
+							    For just as from the heavens the rain and snow come down and do not return there till they have watered the earth, making it fertile and fruitful, giving seed to the one who sows and bread to the one who eats, so shall my word be that goes forth from my mouth; my word shall not return to me void, but shall do my will, achieving the end for which I sent it.
+							</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_res_psalm4" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
+                            <h6 class="modal-title modal-about text-center">Isaiah 12:2-3, 4, 5-6</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong><br>
+                                God indeed is my savior;<br> 
+                                I am confident and unafraid.<br> 
+                                My strength and my courage is the LORD,<br> 
+                                and he has been my savior.<br> 
+                                With joy you will draw water<br> 
+                                at the fountain of salvation.<br>
+							    <strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong>
+                            </p>
+                            <p>
+                                Give thanks to the LORD, acclaim his name;<br> 
+                                among the nations make known his deeds,<br> 
+                                proclaim how exalted is his name.<br>
+								<strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong>
+                            </p>
+                            <p>
+                                Sing praise to the LORD for his glorious achievement;<br> 
+                                let this be known throughout all the earth.<br> 
+                                Shout with exultation, O city of Zion,<br> 
+                                for great in your midst is the Holy One of Israel!<br>
+                                <strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_6th_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">6th Reading - Saturday</h4>
+							<h6 class="modal-title modal-about text-center">Baruch 3:9-15, 32C4:4</h6>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Hear, O Israel, the commandments of life: listen, and know prudence! How is it, Israel, that you are in the land of your foes, grown old in a foreign land, defiled with the dead, accounted with those destined for the netherworld? You have forsaken the fountain of wisdom! Had you walked in the way of God, you would have dwelt in enduring peace. Learn where prudence is, where strength, where understanding; that you may know also where are length of days, and life, where light of the eyes, and peace. Who has found the place of wisdom, who has entered into her treasuries?
+							</p>
+							<p>
+							    The One who knows all things knows her; he has probed her by his knowledgeC The One who established the earth for all time, and filled it with four-footed beasts; he who dismisses the light, and it departs, calls it, and it obeys him trembling; before whom the stars at their posts shine and rejoice; when he calls them, they answer, "Here we are!" shining with joy for their Maker. Such is our God; no other is to be compared to him: he has traced out the whole way of understanding, and has given her to Jacob, his servant, to Israel, his beloved son.
+							</p>
+							<p>
+							    Since then she has appeared on earth, and moved among people. She is the book of the precepts of God, the law that endures forever; all who cling to her will live, but those will die who forsake her. Turn, O Jacob, and receive her: walk by her light toward splendor. Give not your glory to another, your privileges to an alien race. Blessed are we, O Israel; for what pleases God is known to us!
+							</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_res_psalm5" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
+                            <h6 class="modal-title modal-about text-center">Psalm 19:8, 9, 10, 11</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. Lord, you have the words of everlasting life.</i></strong><br>
+                                The law of the LORD is perfect,<br> 
+                                refreshing the soul;<br> 
+                                the decree of the LORD is trustworthy,<br> 
+                                giving wisdom to the simple.<br>
+							    <strong><i>R. Lord, you have the words of everlasting life.</i></strong>
+                            </p>
+                            <p>
+                                The precepts of the LORD are right,<br> 
+                                rejoicing the heart;<br> 
+                                the command of the LORD is clear,<br> 
+                                enlightening the eye.<br>
+								<strong><i>R. Lord, you have the words of everlasting life.</i></strong>
+                            </p>
+                            <p>
+                                The fear of the LORD is pure,<br> 
+                                enduring forever;<br> 
+                                the ordinances of the LORD are true,<br> 
+                                all of them just.<br>
+                                <strong><i>R. Lord, you have the words of everlasting life.</i></strong>
+                            </p>
+                            <p>
+                                They are more precious than gold,<br> 
+                                than a heap of purest gold;<br> 
+                                sweeter also than syrup<br> 
+                                or honey from the comb.<br>
+                                <strong><i>R. Lord, you have the words of everlasting life.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_7th_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">7th Reading - Saturday</h4>
+							<h6 class="modal-title modal-about text-center">Ezra 36:16-17A, 18-28</h6>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                The word of the LORD came to me, saying: Son of man, when the house of Israel lived in their land, they defiled it by their conduct and deeds. Therefore I poured out my fury upon them because of the blood that they poured out on the ground, and because they defiled it with idols. I scattered them among the nations, dispersing them over foreign lands; according to their conduct and deeds I judged them. But when they came among the nations wherever they came, they served to profane my holy name, because it was said of them: "These are the people of the LORD, yet they had to leave their land." So I have relented because of my holy name which the house of Israel profaned among the nations where they came. Therefore say to the house of Israel: Thus says the Lord GOD: Not for your sakes do I act, house of Israel, but for the sake of my holy name, which you profaned among the nations to which you came. I will prove the holiness of my great name, profaned among the nations, in whose midst you have profaned it. Thus the nations shall know that I am the LORD, says the Lord GOD, when in their sight I prove my holiness through you. For I will take you away from among the nations, gather you from all the foreign lands, and bring you back to your own land. I will sprinkle clean water upon you to cleanse you from all your impurities, and from all your idols I will cleanse you. I will give you a new heart and place a new spirit within you, taking from your bodies your stony hearts and giving you natural hearts. I will put my spirit within you and make you live by my statutes, careful to observe my decrees. You shall live in the land I gave your fathers; you shall be my people, and I will be your God.
+							</p>						
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_res_psalm6" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
+                            <h6 class="modal-title modal-about text-center">Psalm 42:3, 5; 43:3, 4 / Isaiah 12:2-3, 4BCD, 5-6 / Psalm 51:12-13, 14-15, 18-19</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <h3 class="text-center">When baptism is celebrated.</h3>
+                            </p>
+                            <p>
+                                <strong><i>R. Like a deer that longs for running streams, my soul longs for you, my God.</i></strong><br>
+                                Athirst is my soul for God, the living God.<br> 
+                                When shall I go and behold the face of God?<br>
+							    <strong><i>R. Like a deer that longs for running streams, my soul longs for you, my God.</i></strong>
+                            </p>
+                            <p>
+                                I went with the throng<br> 
+                                and led them in procession to the house of God,<br> 
+                                Amid loud cries of joy and thanksgiving,<br> 
+                                with the multitude keeping festival.<br>
+								<strong><i>R. Like a deer that longs for running streams, my soul longs for you, my God.</i></strong>
+                            </p>
+                            <p>
+                                Send forth your light and your fidelity;<br> 
+                                they shall lead me on<br> 
+                                And bring me to your holy mountain,<br> 
+                                to your dwelling-place.<br>
+                                <strong><i>R. Like a deer that longs for running streams, my soul longs for you, my God.</i></strong>
+                            </p>
+                            <p>
+                                Then will I go in to the altar of God,<br> 
+                                the God of my gladness and joy;<br> 
+                                then will I give you thanks upon the harp,<br> 
+                                O God, my God!<br>
+                                <strong><i>R. Like a deer that longs for running streams, my soul longs for you, my God.</i></strong>
+                            </p>
+                            <p>
+                                <h3 class="text-center">OR</h3>
+                            </p>
+                            <p>
+                                <h3 class="text-center">When baptism is not celebrated.</h3>
+                            </p>
+                            <p>
+                                <strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong><br>
+                                God indeed is my savior;<br> 
+                                I am confident and unafraid.<br> 
+                                My strength and my courage is the LORD,<br> 
+                                and he has been my savior.<br> 
+                                With joy you will draw water<br> 
+                                at the fountain of salvation.<br>
+                                <strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong>
+                            </p>
+                            <p>
+                                Give thanks to the LORD, acclaim his name;<br> 
+                                among the nations make known his deeds,<br> 
+                                proclaim how exalted is his name.<br>
+                                <strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong>
+                            </p>
+                            <p>
+                                Sing praise to the LORD for his glorious achievement;<br> 
+                                let this be known throughout all the earth.<br> 
+                                Shout with exultation, O city of Zion,<br> 
+                                for great in your midst<br> 
+                                is the Holy One of Israel!<br>
+                                <strong><i>R. You will draw water joyfully from the springs of salvation.</i></strong>
+                            </p>
+                            <p>
+                                <h3 class="text-center">OR</h3>
+                            </p>
+                            <p>
+                                <h3 class="text-center">When baptism is not celebrated.</h3>
+                            </p>
+                            <p>
+                                <strong><i>R. Create a clean heart in me, O God.</i></strong><br>
+                                A clean heart create for me, O God,<br> 
+                                and a steadfast spirit renew within me.<br> 
+                                Cast me not out from your presence,<br> 
+                                and your Holy Spirit take not from me.<br>
+                                <strong><i>R. Create a clean heart in me, O God.</i></strong>
+                            </p>
+                            <p>
+                                Give me back the joy of your salvation,<br> 
+                                and a willing spirit sustain in me.<br> 
+                                I will teach transgressors your ways,<br> 
+                                and sinners shall return to you.<br>
+                                <strong><i>R. Create a clean heart in me, O God.</i></strong>
+                            </p>
+                            <p>
+                                For you are not pleased with sacrifices;<br> 
+                                should I offer a holocaust, you would not accept it.<br> 
+                                My sacrifice, O God, is a contrite spirit;<br> 
+                                a heart contrite and humbled, O God, you will not spurn.<br>
+                                <strong><i>R. Create a clean heart in me, O God.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="epistle" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Epistle - Saturday</h4>
+							<h6 class="modal-title modal-about text-center">Romans 6:3-11</h6>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Brothers and sisters:<br> 
+                                Are you unaware that we who were baptized into Christ Jesus were baptized into his death? We were indeed buried with him through baptism into death, so that, just as Christ was raised from the dead by the glory of the Father, we too might live in newness of life.
+							</p>
+							<p>
+							    For if we have grown into union with him through a death like his, we shall also be united with him in the resurrection. We know that our old self was crucified with him, so that our sinful body might be done away with, that we might no longer be in slavery to sin. For a dead person has been absolved from sin. If, then, we have died with Christ, we believe that we shall also live with him. We know that Christ, raised from the dead, dies no more; death no longer has power over him. As to his death, he died to sin once and for all; as to his life, he lives for God. Consequently, you too must think of yourselves as being dead to sin and living for God in Christ Jesus.
+							</p>						
                         </div>
                     </div>
                 </div>
@@ -2570,18 +3131,12 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Saturday
-                            <h6 class="modal-title modal-about text-center">Luke 5:27-32</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 24:1-12</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus saw a tax collector named Levi sitting at the customs post. He said to him, 
-                                "Follow me." And leaving everything behind, he got up and followed him. Then Levi gave 
-                                a great banquet for him in his house, and a large crowd of tax collectors and others 
-                                were at table with them. The Pharisees and their scribes complained to his disciples, 
-                                saying, "Why do you eat and drink with tax collectors and sinners?" Jesus said to them 
-                                in reply, "Those who are healthy do not need a physician, but the sick do. I have not 
-                                come to call the righteous to repentance but sinners."
+                                At daybreak on the first day of the week the women who had come from Galilee with Jesus took the spices they had prepared and went to the tomb. They found the stone rolled away from the tomb; but when they entered, they did not find the body of the Lord Jesus. While they were puzzling over this, behold, two men in dazzling garments appeared to them. They were terrified and bowed their faces to the ground. They said to them, "Why do you seek the living one among the dead? He is not here, but he has been raised. Remember what he said to you while he was still in Galilee, that the Son of Man must be handed over to sinners and be crucified, and rise on the third day." And they remembered his words. Then they returned from the tomb and announced all these things to the eleven and to all the others. The women were Mary Magdalene, Joanna, and Mary the mother of James; the others who accompanied them also told this to the apostles, but their story seemed like nonsense and they did not believe them. But Peter got up and ran to the tomb, bent down, and saw the burial cloths alone; then he went home amazed at what had happened.
                             </p>           
                         </div>
                     </div>
@@ -2601,23 +3156,12 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">Deuteronomy 26:4-10</h6>
+                            <h6 class="modal-title modal-about text-center">Acts 10:34A, 37-43</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                 Moses spoke to the people, saying:<br>
-                                 "The priest shall receive the basket from you and shall set it in front of the altar of 
-                                 the LORD, your God. Then you shall declare before the Lord, your God, 'My father was a 
-                                 wandering Aramean who went down to Egypt with a small household and lived there as an 
-                                 alien. But there he became a nation great, strong, and numerous. When the Egyptians 
-                                 maltreated and oppressed us, imposing hard labor upon us, we cried to the LORD, the God 
-                                 of our fathers, and he heard our cry and saw our affliction, our toil, and our oppression. 
-                                 He brought us out of Egypt with his strong hand and outstretched arm, with terrifying 
-                                 power, with signs and wonders; and bringing us into this country, he gave us this land 
-                                 flowing with milk and honey. Therefore, I have now brought you the first-fruits of the 
-                                 products of the soil which you, O LORD, have given me.' And having set them before the 
-                                 Lord, your God, you shall bow down in his presence."
+                                 Peter proceeded to speak and said: "You know what has happened all over Judea, beginning in Galilee after the baptism that John preached, how God anointed Jesus of Nazareth with the Holy Spirit and power. He went about doing good and healing all those oppressed by the devil, for God was with him. We are witnesses of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree. This man God raised on the third day and granted that he be visible, not to all the people, but to us, the witnesses chosen by God in advance, who ate and drank with him after he rose from the dead. He commissioned us to preach to the people and testify that he is the one appointed by God as judge of the living and the dead. To him all the prophets bear witness, that everyone who believes in him will receive forgiveness of sins through his name."
                             </p>
                         </div>
                     </div>
@@ -2637,39 +3181,31 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Sunday
-                            <h6 class="modal-title modal-about text-center">Psalm 91:1-2, 10-11, 12-13, 14-15</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 118:1-2, 16-17, 22-23.</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong><br>
-                                You who dwell in the shelter of the Most High,<br>
-                                who abide in the shadow of the Almighty,<br>
-                                say to the LORD, "My refuge and fortress,<br>
-                                my God in whom I trust."<br>
-								<strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
+                                <strong><i>R. This is the day the Lord has made; let us rejoice and be glad.</i></strong><br>
+                                Give thanks to the LORD, for he is good,<br> 
+                                for his mercy endures forever.<br> 
+                                Let the house of Israel say,<br> 
+                                “His mercy endures forever.”<br>
+								<strong><i>R. This is the day the Lord has made; let us rejoice and be glad.</i></strong>
                             </p>
                             <p>
-                                No evil shall befall you,<br>
-                                nor shall affliction come near your tent,<br>
-                                For to his angels he has given command about you,<br>
-                                that they guard you in all your ways.<br>
-                                <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
+                                “The right hand of the LORD has struck with power;<br> 
+                                the right hand of the LORD is exalted.<br> 
+                                I shall not die, but live,<br> 
+                                and declare the works of the LORD.”<br>
+                                <strong><i>R. This is the day the Lord has made; let us rejoice and be glad.</i></strong>
                             </p>
                             <p>
-                                Upon their hands they shall bear you up,<br>
-                                lest you dash your foot against a stone.<br>
-                                You shall tread upon the asp and the viper;<br>
-                                you shall trample down the lion and the dragon.<br>
-                                <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
-						   </p>
-						   <p>
-						        Because he clings to me, I will deliver him;<br>
-                                I will set him on high because he acknowledges my name.<br>
-                                He shall call upon me, and I will answer him;<br>
-                                I will be with him in distress;<br>
-                                I will deliver him and glorify him.<br>
-						       <strong><i>R. Be with me, Lord, when I am in trouble.</i></strong>
+                                The stone which the builders rejected<br> 
+                                has become the cornerstone.<br> 
+                                By the LORD has this been done;<br> 
+                                it is wonderful in our eyes.<br>
+						       <strong><i>R. This is the day the Lord has made; let us rejoice and be glad.</i></strong>
 						   </p>
                         </div>
                     </div>
@@ -2688,20 +3224,44 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">2nd Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">Romans 10:8-13</h6>
+                            <h6 class="modal-title modal-about text-center">Colossians 3:1-4 / Colossians 5:6B-8</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
                                Brothers and sisters:<br>
-                               What does Scripture say? The word is near you, in your mouth and in your heart that is, 
-                               the word of faith that we preach, for, if you confess with your mouth that Jesus is Lord 
-                               and believe in your heart that God raised him from the dead, you will be saved. For one 
-                               believes with the heart and so is justified, and one confesses with the mouth and so is 
-                               saved. For the Scripture says, No one who believes in him will be put to shame. For there 
-                               is no distinction between Jew and Greek; the same Lord is Lord of all, enriching all who 
-                               call upon him. For "everyone who calls on the name of the Lord will be saved."
+                               If then you were raised with Christ, seek what is above, where Christ is seated at the right hand of God. Think of what is above, not of what is on earth. For you have died, and your life is hidden with Christ in God. When Christ your life appears, then you too will appear with him in glory.
+                            </p>
+                            <p>
+                                <h3 class="text-center">OR</h3>
+                            </p>
+                            <p>
+                               Brothers and sisters:<br>
+                               Do you not know that a little yeast leavens all the dough? Clear out the old yeast, so that you may become a fresh batch of dough, inasmuch as you are unleavened. For our paschal lamb, Christ, has been sacrificed. Therefore, let us celebrate the feast, not with the old yeast, the yeast of malice and wickedness, but with the unleavened bread of sincerity and truth.
                             </p>    
+                            <p>
+                                <strong><i>Sequence Victimae Paschali Laudes</i></strong>
+                            </p>
+                            <p class="text-center">
+                                Christians, to the Paschal Victim<br> 
+                                Offer your thankful praises!<br> 
+                                A Lamb the sheep redeems;<br> 
+                                Christ, who only is sinless,<br> 
+                                Reconciles sinners to the Father.<br> 
+                                Death and life have contended in that combat stupendous:<br> 
+                                The Prince of life, who died, reigns immortal.<br> 
+                                Speak, Mary, declaring<br> 
+                                What you saw, wayfaring.<br> 
+                                “The tomb of Christ, who is living,<br> 
+                                The glory of Jesus’ resurrection;<br> 
+                                bright angels attesting,<br> 
+                                The shroud and napkin resting.<br> 
+                                Yes, Christ my hope is arisen;<br> 
+                                to Galilee he goes before you.”<br> 
+                                Christ indeed from death is risen, our new life obtaining.<br> 
+                                Have mercy, victor King, ever reigning!<br> 
+                                Amen. Alleluia.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -2719,26 +3279,12 @@ we who first hoped in Christ.
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">Luke 4:1-13</h6>
+                            <h6 class="modal-title modal-about text-center">John 20:1-9</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Filled with the Holy Spirit, Jesus returned from the Jordan and was led by the Spirit 
-                                into the desert for forty days, to be tempted by the devil. He ate nothing during those 
-                                days, and when they were over he was hungry. The devil said to him, "If you are the Son 
-                                of God, command this stone to become bread." Jesus answered him, "It is written, One 
-                                does not live on bread alone." Then he took him up and showed him all the kingdoms of 
-                                the world in a single instant. The devil said to him, "I shall give to you all this 
-                                power and glory; for it has been handed over to me, and I may give it to whomever I wish. 
-                                All this will be yours, if you worship me." Jesus said to him in reply, "It is written: 
-                                You shall worship the Lord, your God, and him alone shall you serve." Then he led him to 
-                                Jerusalem, made him stand on the parapet of the temple, and said to him, "If you are the 
-                                Son of God, throw yourself down from here, for it is written: He will command his angels 
-                                concerning you, to guard you, and: With their hands they will support you, lest you dash 
-                                your foot against a stone." Jesus said to him in reply, "It also says, You shall not put 
-                                the Lord, your God, to the test." When the devil had finished every temptation, he 
-                                departed from him for a time.
+                                On the first day of the week, Mary of Magdala came to the tomb early in the morning, while it was still dark, and saw the stone removed from the tomb. So she ran and went to Simon Peter and to the other disciple whom Jesus loved, and told them, “They have taken the Lord from the tomb, and we don’t know where they put him.” So Peter and the other disciple went out and came to the tomb. They both ran, but the other disciple ran faster than Peter and arrived at the tomb first; he bent down and saw the burial cloths there, but did not go in. When Simon Peter arrived after him, he went into the tomb and saw the burial cloths there, and the cloth that had covered his head, not with the burial cloths but rolled up in a separate place. Then the other disciple also went in, the one who had arrived at the tomb first, and he saw and believed. For they did not yet understand the Scripture that he had to rise from the dead.
                             </p>
                         </div>
                     </div>
